@@ -15,8 +15,11 @@
 
 # 3-5 Initial research questions: 
 * How to filter through all available data and select desired data set?
+	* Cleaned data to show same range (2012-2016 County Level)
 * What resulting data will be available for end-user?
+	* County level mortality rate from heart disease, education level (less than highschool, highschool only, some college, Bachelor or higher), median household income.
 * How do we want to display the data?
+	* At county level, how mortality rate from heart disease ties to income and education level
 				
 # Techniques & tools: 
 ## Python API, Pandas, Matplotlib, etc.
