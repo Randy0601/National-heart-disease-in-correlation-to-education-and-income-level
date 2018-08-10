@@ -1,6 +1,6 @@
 Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error
-,Alabama,1,"Autauga County, AL",1001,188,144568,130.0,111.5,148.6,9.5
-,Alabama,1,"Baldwin County, AL",1003,581,514161,113.0,103.8,122.2,4.7
+,Alabama,1,"Autauga County, AL",1001,188,144568,130,111.5,148.6,9.5
+,Alabama,1,"Baldwin County, AL",1003,581,514161,113,103.8,122.2,4.7
 ,Alabama,1,"Barbour County, AL",1005,118,71488,165.1,135.3,194.8,15.2
 ,Alabama,1,"Bibb County, AL",1007,123,62810,195.8,161.2,230.4,17.7
 ,Alabama,1,"Blount County, AL",1009,194,148438,130.7,112.3,149.1,9.4
@@ -20,14 +20,14 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Alabama,1,"Coosa County, AL",1037,46,29851,154.1,112.8,205.5,22.7
 ,Alabama,1,"Covington County, AL",1039,190,95215,199.5,171.2,227.9,14.5
 ,Alabama,1,"Crenshaw County, AL",1041,52,35548,146.3,109.3,191.8,20.3
-,Alabama,1,"Cullman County, AL",1043,332,210148,158.0,141,175,8.7
-,Alabama,1,"Dale County, AL",1045,216,129329,167.0,144.7,189.3,11.4
+,Alabama,1,"Cullman County, AL",1043,332,210148,158,141,175,8.7
+,Alabama,1,"Dale County, AL",1045,216,129329,167,144.7,189.3,11.4
 ,Alabama,1,"Dallas County, AL",1047,266,102988,258.3,227.2,289.3,15.8
 ,Alabama,1,"DeKalb County, AL",1049,274,181628,150.9,133,168.7,9.1
 ,Alabama,1,"Elmore County, AL",1051,300,218040,137.6,122,153.2,7.9
 ,Alabama,1,"Escambia County, AL",1053,170,99838,170.3,144.7,195.9,13.1
 ,Alabama,1,"Etowah County, AL",1055,576,268796,214.3,196.8,231.8,8.9
-,Alabama,1,"Fayette County, AL",1057,87,42430,205.0,164.2,252.9,22
+,Alabama,1,"Fayette County, AL",1057,87,42430,205,164.2,252.9,22
 ,Alabama,1,"Franklin County, AL",1059,151,80372,187.9,157.9,217.8,15.3
 ,Alabama,1,"Geneva County, AL",1061,113,68422,165.2,134.7,195.6,15.5
 ,Alabama,1,"Greene County, AL",1063,65,21471,302.7,233.6,385.9,37.5
@@ -40,8 +40,8 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Alabama,1,"Lauderdale County, AL",1077,377,230233,163.7,147.2,180.3,8.4
 ,Alabama,1,"Lawrence County, AL",1079,185,88664,208.7,178.6,238.7,15.3
 ,Alabama,1,"Lee County, AL",1081,343,373116,91.9,82.2,101.7,5
-,Alabama,1,"Limestone County, AL",1083,390,248408,157.0,141.4,172.6,7.9
-,Alabama,1,"Lowndes County, AL",1085,63,26578,237.0,182.1,303.3,29.9
+,Alabama,1,"Limestone County, AL",1083,390,248408,157,141.4,172.6,7.9
+,Alabama,1,"Lowndes County, AL",1085,63,26578,237,182.1,303.3,29.9
 ,Alabama,1,"Macon County, AL",1087,127,44796,283.5,234.2,332.8,25.2
 ,Alabama,1,"Madison County, AL",1089,1237,945663,130.8,123.5,138.1,3.7
 ,Alabama,1,"Marengo County, AL",1091,130,49570,262.3,217.2,307.3,23
@@ -61,7 +61,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Alabama,1,"Sumter County, AL",1119,61,30137,202.4,154.8,260,25.9
 ,Alabama,1,"Talladega County, AL",1121,432,214592,201.3,182.3,220.3,9.7
 ,Alabama,1,"Tallapoosa County, AL",1123,186,104323,178.3,152.7,203.9,13.1
-,Alabama,1,"Tuscaloosa County, AL",1125,678,491349,138.0,127.6,148.4,5.3
+,Alabama,1,"Tuscaloosa County, AL",1125,678,491349,138,127.6,148.4,5.3
 ,Alabama,1,"Walker County, AL",1127,497,169212,293.7,267.9,319.5,13.2
 ,Alabama,1,"Washington County, AL",1129,82,43292,189.4,150.6,235.1,20.9
 ,Alabama,1,"Wilcox County, AL",1131,121,26996,448.2,368.4,528.1,40.7
@@ -72,7 +72,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Alaska,2,"Dillingham Census Area, AK",2070,16,12114,Unreliable,75.5,214.5,33
 ,Alaska,2,"Fairbanks North Star Borough, AK",2090,203,266105,76.3,65.8,86.8,5.4
 ,Alaska,2,"Juneau Borough, AK",2110,73,94259,77.4,60.7,97.4,9.1
-,Alaska,2,"Kenai Peninsula Borough, AK",2122,153,156154,98.0,82.5,113.5,7.9
+,Alaska,2,"Kenai Peninsula Borough, AK",2122,153,156154,98,82.5,113.5,7.9
 ,Alaska,2,"Ketchikan Gateway Borough, AK",2130,45,38423,117.1,85.4,156.7,17.5
 ,Alaska,2,"Kodiak Island Borough, AK",2150,23,38296,60.1,38.1,90.1,12.5
 ,Alaska,2,"Lake and Peninsula Borough, AK",2164,10,4159,Unreliable,115.3,442.2,76
@@ -96,7 +96,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Arizona,4,"Maricopa County, AZ",4013,6977,10533674,66.2,64.7,67.8,0.8
 ,Arizona,4,"Mohave County, AZ",4015,941,485766,193.7,181.3,206.1,6.3
 ,Arizona,4,"Navajo County, AZ",4017,243,253825,95.7,83.7,107.8,6.1
-,Arizona,4,"Pima County, AZ",4019,2118,2433780,87.0,83.3,90.7,1.9
+,Arizona,4,"Pima County, AZ",4019,2118,2433780,87,83.3,90.7,1.9
 ,Arizona,4,"Pinal County, AZ",4021,751,995593,75.4,70,80.8,2.8
 ,Arizona,4,"Santa Cruz County, AZ",4023,65,107338,60.6,46.7,77.2,7.5
 ,Arizona,4,"Yavapai County, AZ",4025,560,520364,107.6,98.7,116.5,4.5
@@ -117,12 +117,12 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Arkansas,5,"Columbia County, AR",5027,96,55116,174.2,141.1,212.7,17.8
 ,Arkansas,5,"Conway County, AR",5029,104,53374,194.9,157.4,232.3,19.1
 ,Arkansas,5,"Craighead County, AR",5031,354,260471,135.9,121.7,150.1,7.2
-,Arkansas,5,"Crawford County, AR",5033,236,159436,148.0,129.1,166.9,9.6
+,Arkansas,5,"Crawford County, AR",5033,236,159436,148,129.1,166.9,9.6
 ,Arkansas,5,"Crittenden County, AR",5035,274,125002,219.2,193.2,245.2,13.2
 ,Arkansas,5,"Cross County, AR",5037,58,43497,133.3,101.3,172.4,17.5
 ,Arkansas,5,"Dallas County, AR",5039,44,19349,227.4,165.2,305.3,34.3
 ,Arkansas,5,"Desha County, AR",5041,99,30046,329.5,267.8,401.1,33.1
-,Arkansas,5,"Drew County, AR",5043,74,44315,167.0,131.1,209.6,19.4
+,Arkansas,5,"Drew County, AR",5043,74,44315,167,131.1,209.6,19.4
 ,Arkansas,5,"Faulkner County, AR",5045,338,297901,113.5,101.4,125.6,6.2
 ,Arkansas,5,"Franklin County, AR",5047,79,44362,178.1,141,221.9,20
 ,Arkansas,5,"Fulton County, AR",5049,48,29149,164.7,121.4,218.3,23.8
@@ -136,13 +136,13 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Arkansas,5,"Izard County, AR",5065,57,33680,169.2,128.2,219.3,22.4
 ,Arkansas,5,"Jackson County, AR",5067,77,47952,160.6,126.7,200.7,18.3
 ,Arkansas,5,"Jefferson County, AR",5069,435,185470,234.5,212.5,256.6,11.2
-,Arkansas,5,"Johnson County, AR",5071,87,64935,134.0,107.3,165.3,14.4
+,Arkansas,5,"Johnson County, AR",5071,87,64935,134,107.3,165.3,14.4
 ,Arkansas,5,"Lafayette County, AR",5073,38,17733,214.3,151.6,294.1,34.8
-,Arkansas,5,"Lawrence County, AR",5075,61,40951,149.0,113.9,191.3,19.1
+,Arkansas,5,"Lawrence County, AR",5075,61,40951,149,113.9,191.3,19.1
 ,Arkansas,5,"Lee County, AR",5077,66,26753,246.7,190.8,313.9,30.4
 ,Arkansas,5,"Lincoln County, AR",5079,53,40211,131.8,98.7,172.4,18.1
 ,Arkansas,5,"Little River County, AR",5081,62,32006,193.7,148.5,248.3,24.6
-,Arkansas,5,"Logan County, AR",5083,107,54867,195.0,158.1,232,18.9
+,Arkansas,5,"Logan County, AR",5083,107,54867,195,158.1,232,18.9
 ,Arkansas,5,"Lonoke County, AR",5085,255,187569,135.9,119.3,152.6,8.5
 ,Arkansas,5,"Madison County, AR",5087,62,40423,153.4,117.6,196.6,19.5
 ,Arkansas,5,"Marion County, AR",5089,68,40692,167.1,129.8,211.9,20.3
@@ -196,7 +196,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,California,6,"Los Angeles County, CA",6037,20231,27481351,73.6,72.6,74.6,0.5
 ,California,6,"Madera County, CA",6039,310,378541,81.9,72.8,91,4.7
 ,California,6,"Marin County, CA",6041,289,696504,41.5,36.7,46.3,2.4
-,California,6,"Mariposa County, CA",6043,62,45941,135.0,103.5,173,17.1
+,California,6,"Mariposa County, CA",6043,62,45941,135,103.5,173,17.1
 ,California,6,"Mendocino County, CA",6045,206,225804,91.2,78.8,103.7,6.4
 ,California,6,"Merced County, CA",6047,535,633974,84.4,77.2,91.5,3.6
 ,California,6,"Modoc County, CA",6049,24,22673,105.9,67.8,157.5,21.6
@@ -207,7 +207,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,California,6,"Placer County, CA",6061,571,954398,59.8,54.9,64.7,2.5
 ,California,6,"Plumas County, CA",6063,49,47992,102.1,75.5,135,14.6
 ,California,6,"Riverside County, CA",6065,4429,5818797,76.1,73.9,78.4,1.1
-,California,6,"Sacramento County, CA",6067,3358,3951723,85.0,82.1,87.8,1.5
+,California,6,"Sacramento County, CA",6067,3358,3951723,85,82.1,87.8,1.5
 ,California,6,"San Benito County, CA",6069,81,151257,53.6,42.5,66.6,6
 ,California,6,"San Bernardino County, CA",6071,4497,5388770,83.5,81,85.9,1.2
 ,California,6,"San Diego County, CA",6073,4947,8744194,56.6,55,58.2,0.8
@@ -216,9 +216,9 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,California,6,"San Luis Obispo County, CA",6079,461,679166,67.9,61.7,74.1,3.2
 ,California,6,"San Mateo County, CA",6081,910,2127914,42.8,40,45.5,1.4
 ,California,6,"Santa Barbara County, CA",6083,668,1045813,63.9,59,68.7,2.5
-,California,6,"Santa Clara County, CA",6085,2166,5277371,41.0,39.3,42.8,0.9
+,California,6,"Santa Clara County, CA",6085,2166,5277371,41,39.3,42.8,0.9
 ,California,6,"Santa Cruz County, CA",6087,355,693770,51.2,45.8,56.5,2.7
-,California,6,"Shasta County, CA",6089,564,454727,124.0,113.8,134.3,5.2
+,California,6,"Shasta County, CA",6089,564,454727,124,113.8,134.3,5.2
 ,California,6,"Sierra County, CA",6091,13,7825,Unreliable,88.5,284.1,46.1
 ,California,6,"Siskiyou County, CA",6093,141,109238,129.1,107.8,150.4,10.9
 ,California,6,"Solano County, CA",6095,827,1157420,71.5,66.6,76.3,2.5
@@ -253,19 +253,19 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Colorado,8,"Elbert County, CO",8039,44,68394,64.3,46.7,86.4,9.7
 ,Colorado,8,"El Paso County, CO",8041,1184,1734205,68.3,64.4,72.2,2
 ,Colorado,8,"Fremont County, CO",8043,119,131166,90.7,74.4,107,8.3
-,Colorado,8,"Garfield County, CO",8045,73,158786,46.0,36,57.8,5.4
+,Colorado,8,"Garfield County, CO",8045,73,158786,46,36,57.8,5.4
 ,Colorado,8,"Gilpin County, CO",8047,14,18481,Unreliable,41.4,127.1,20.2
-,Colorado,8,"Grand County, CO",8049,26,44044,59.0,38.6,86.5,11.6
+,Colorado,8,"Grand County, CO",8049,26,44044,59,38.6,86.5,11.6
 ,Colorado,8,"Gunnison County, CO",8051,15,42078,Unreliable,20,58.8,9.2
 ,Colorado,8,"Huerfano County, CO",8055,15,15881,Unreliable,52.9,155.8,24.4
 ,Colorado,8,"Jefferson County, CO",8059,944,1568925,60.2,56.3,64,2
 ,Colorado,8,"Kit Carson County, CO",8063,13,20945,Unreliable,33,106.1,17.2
-,Colorado,8,"Lake County, CO",8065,21,20990,100.0,61.9,152.9,21.8
+,Colorado,8,"Lake County, CO",8065,21,20990,100,61.9,152.9,21.8
 ,Colorado,8,"La Plata County, CO",8067,84,150233,55.9,44.6,69.2,6.1
 ,Colorado,8,"Larimer County, CO",8069,430,828300,51.9,47,56.8,2.5
 ,Colorado,8,"Las Animas County, CO",8071,37,35962,102.9,72.4,141.8,16.9
 ,Colorado,8,"Lincoln County, CO",8073,11,15060,Unreliable,36.5,130.7,22
-,Colorado,8,"Logan County, CO",8075,51,59303,86.0,64,113.1,12
+,Colorado,8,"Logan County, CO",8075,51,59303,86,64,113.1,12
 ,Colorado,8,"Mesa County, CO",8077,291,375618,77.5,68.6,86.4,4.5
 ,Colorado,8,"Moffat County, CO",8081,25,34822,71.8,46.5,106,14.4
 ,Colorado,8,"Montezuma County, CO",8083,56,66163,84.6,63.9,109.9,11.3
@@ -279,7 +279,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Colorado,8,"Rio Grande County, CO",8105,26,28751,90.4,59.1,132.5,17.7
 ,Colorado,8,"Routt County, CO",8107,21,72247,29.1,18,44.4,6.3
 ,Colorado,8,"Saguache County, CO",8109,10,16396,Unreliable,29.2,112.2,19.3
-,Colorado,8,"Summit County, CO",8117,35,94616,37.0,25.8,51.4,6.3
+,Colorado,8,"Summit County, CO",8117,35,94616,37,25.8,51.4,6.3
 ,Colorado,8,"Teller County, CO",8119,68,67225,101.2,78.5,128.2,12.3
 ,Colorado,8,"Weld County, CO",8123,429,722480,59.4,53.8,65,2.9
 ,Colorado,8,"Yuma County, CO",8125,16,24363,Unreliable,37.5,106.6,16.4
@@ -301,7 +301,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Florida,12,"Bradford County, FL",12007,79,72856,108.4,85.8,135.1,12.2
 ,Florida,12,"Brevard County, FL",12009,1475,1429741,103.2,97.9,108.4,2.7
 ,Florida,12,"Broward County, FL",12011,3759,5100913,73.7,71.3,76,1.2
-,Florida,12,"Calhoun County, FL",12013,64,39503,162.0,124.8,206.9,20.3
+,Florida,12,"Calhoun County, FL",12013,64,39503,162,124.8,206.9,20.3
 ,Florida,12,"Charlotte County, FL",12015,446,371842,119.9,108.8,131.1,5.7
 ,Florida,12,"Citrus County, FL",12017,527,311019,169.4,155,183.9,7.4
 ,Florida,12,"Clay County, FL",12019,449,531282,84.5,76.7,92.3,4
@@ -312,7 +312,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Florida,12,"Duval County, FL",12031,2826,2461870,114.8,110.6,119,2.2
 ,Florida,12,"Escambia County, FL",12033,1002,780665,128.4,120.4,136.3,4.1
 ,Florida,12,"Flagler County, FL",12035,265,242152,109.4,96.3,122.6,6.7
-,Florida,12,"Franklin County, FL",12037,40,32779,122.0,87.2,166.2,19.3
+,Florida,12,"Franklin County, FL",12037,40,32779,122,87.2,166.2,19.3
 ,Florida,12,"Gadsden County, FL",12039,175,123864,141.3,120.4,162.2,10.7
 ,Florida,12,"Gilchrist County, FL",12041,51,41218,123.7,92.1,162.7,17.3
 ,Florida,12,"Glades County, FL",12043,38,33813,112.4,79.5,154.3,18.2
@@ -339,7 +339,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Florida,12,"Martin County, FL",12085,282,362640,77.8,68.7,86.8,4.6
 ,Florida,12,"Miami-Dade County, FL",12086,4988,7281010,68.5,66.6,70.4,1
 ,Florida,12,"Monroe County, FL",12087,253,221779,114.1,100,128.1,7.2
-,Florida,12,"Nassau County, FL",12089,204,202067,101.0,87.1,114.8,7.1
+,Florida,12,"Nassau County, FL",12089,204,202067,101,87.1,114.8,7.1
 ,Florida,12,"Okaloosa County, FL",12091,439,518666,84.6,76.7,92.6,4
 ,Florida,12,"Okeechobee County, FL",12093,148,100172,147.7,123.9,171.5,12.1
 ,Florida,12,"Orange County, FL",12095,2398,3453352,69.4,66.7,72.2,1.4
@@ -348,17 +348,17 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Florida,12,"Pasco County, FL",12101,1360,1219295,111.5,105.6,117.5,3
 ,Florida,12,"Pinellas County, FL",12103,2685,2482238,108.2,104.1,112.3,2.1
 ,Florida,12,"Polk County, FL",12105,1717,1564672,109.7,104.5,114.9,2.6
-,Florida,12,"Putnam County, FL",12107,272,178895,152.0,134,170.1,9.2
+,Florida,12,"Putnam County, FL",12107,272,178895,152,134,170.1,9.2
 ,Florida,12,"St. Johns County, FL",12109,369,570105,64.7,58.1,71.3,3.4
 ,Florida,12,"St. Lucie County, FL",12111,739,718937,102.8,95.4,110.2,3.8
 ,Florida,12,"Santa Rosa County, FL",12113,388,447502,86.7,78.1,95.3,4.4
 ,Florida,12,"Sarasota County, FL",12115,808,898477,89.9,83.7,96.1,3.2
-,Florida,12,"Seminole County, FL",12117,792,1219353,65.0,60.4,69.5,2.3
+,Florida,12,"Seminole County, FL",12117,792,1219353,65,60.4,69.5,2.3
 ,Florida,12,"Sumter County, FL",12119,224,203790,109.9,95.5,124.3,7.3
 ,Florida,12,"Suwannee County, FL",12121,126,111285,113.2,93.5,133,10.1
 ,Florida,12,"Taylor County, FL",12123,74,61610,120.1,94.3,150.8,14
 ,Florida,12,"Union County, FL",12125,90,45303,198.7,159.7,244.2,20.9
-,Florida,12,"Volusia County, FL",12127,1729,1281106,135.0,128.6,141.3,3.2
+,Florida,12,"Volusia County, FL",12127,1729,1281106,135,128.6,141.3,3.2
 ,Florida,12,"Wakulla County, FL",12129,93,91002,102.2,82.5,125.2,10.6
 ,Florida,12,"Walton County, FL",12131,171,167373,102.2,86.9,117.5,7.8
 ,Florida,12,"Washington County, FL",12133,102,66510,153.4,123.6,183.1,15.2
@@ -383,7 +383,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Georgia,13,"Camden County, GA",13039,170,131152,129.6,110.1,149.1,9.9
 ,Georgia,13,"Candler County, GA",13043,63,27029,233.1,179.1,298.2,29.4
 ,Georgia,13,"Carroll County, GA",13045,372,282439,131.7,118.3,145.1,6.8
-,Georgia,13,"Catoosa County, GA",13047,199,171616,116.0,99.8,132.1,8.2
+,Georgia,13,"Catoosa County, GA",13047,199,171616,116,99.8,132.1,8.2
 ,Georgia,13,"Charlton County, GA",13049,55,37508,146.6,110.5,190.9,19.8
 ,Georgia,13,"Chatham County, GA",13051,931,738582,126.1,118,134.1,4.1
 ,Georgia,13,"Chattahoochee County, GA",13053,21,25161,83.5,51.7,127.6,18.2
@@ -392,12 +392,12 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Georgia,13,"Clarke County, GA",13059,265,272954,97.1,85.4,108.8,6
 ,Georgia,13,"Clay County, GA",13061,19,7300,Unreliable,156.7,406.4,59.7
 ,Georgia,13,"Clayton County, GA",13063,922,716708,128.6,120.3,136.9,4.2
-,Georgia,13,"Clinch County, GA",13065,33,17012,194.0,133.5,272.4,33.8
+,Georgia,13,"Clinch County, GA",13065,33,17012,194,133.5,272.4,33.8
 ,Georgia,13,"Cobb County, GA",13067,1308,2023847,64.6,61.1,68.1,1.8
 ,Georgia,13,"Coffee County, GA",13069,144,112245,128.3,107.3,149.2,10.7
-,Georgia,13,"Colquitt County, GA",13071,149,114612,130.0,109.1,150.9,10.7
+,Georgia,13,"Colquitt County, GA",13071,149,114612,130,109.1,150.9,10.7
 ,Georgia,13,"Columbia County, GA",13073,233,375063,62.1,54.1,70.1,4.1
-,Georgia,13,"Cook County, GA",13075,82,42927,191.0,151.9,237.1,21.1
+,Georgia,13,"Cook County, GA",13075,82,42927,191,151.9,237.1,21.1
 ,Georgia,13,"Coweta County, GA",13077,332,363894,91.2,81.4,101,5
 ,Georgia,13,"Crawford County, GA",13079,56,33607,166.6,125.9,216.4,22.3
 ,Georgia,13,"Crisp County, GA",13081,116,57931,200.2,163.8,236.7,18.6
@@ -406,7 +406,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Georgia,13,"Decatur County, GA",13087,112,68327,163.9,133.6,194.3,15.5
 ,Georgia,13,"DeKalb County, GA",13089,1773,2052707,86.4,82.4,90.4,2.1
 ,Georgia,13,"Dodge County, GA",13091,90,56638,158.9,127.8,195.3,16.7
-,Georgia,13,"Dooly County, GA",13093,62,39739,156.0,119.6,200,19.8
+,Georgia,13,"Dooly County, GA",13093,62,39739,156,119.6,200,19.8
 ,Georgia,13,"Dougherty County, GA",13095,413,226765,182.1,164.6,199.7,9
 ,Georgia,13,"Douglas County, GA",13097,401,370867,108.1,97.5,118.7,5.4
 ,Georgia,13,"Early County, GA",13099,61,25093,243.1,185.9,312.3,31.1
@@ -415,7 +415,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Georgia,13,"Elbert County, GA",13105,94,48878,192.3,155.4,235.3,19.8
 ,Georgia,13,"Emanuel County, GA",13107,106,57159,185.4,150.1,220.8,18
 ,Georgia,13,"Evans County, GA",13109,41,26931,152.2,109.3,206.5,23.8
-,Georgia,13,"Fannin County, GA",13111,89,60553,147.0,118,180.9,15.6
+,Georgia,13,"Fannin County, GA",13111,89,60553,147,118,180.9,15.6
 ,Georgia,13,"Fayette County, GA",13113,200,280426,71.3,61.4,81.2,5
 ,Georgia,13,"Floyd County, GA",13115,376,242127,155.3,139.6,171,8
 ,Georgia,13,"Forsyth County, GA",13117,260,544268,47.8,42,53.6,3
@@ -423,31 +423,31 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Georgia,13,"Fulton County, GA",13121,2580,2794548,92.3,88.8,95.9,1.8
 ,Georgia,13,"Gilmer County, GA",13123,103,73097,140.9,113.7,168.1,13.9
 ,Georgia,13,"Glascock County, GA",13125,16,7834,Unreliable,116.7,331.7,51.1
-,Georgia,13,"Glynn County, GA",13127,246,210306,117.0,102.4,131.6,7.5
+,Georgia,13,"Glynn County, GA",13127,246,210306,117,102.4,131.6,7.5
 ,Georgia,13,"Gordon County, GA",13129,207,146987,140.8,121.6,160,9.8
 ,Georgia,13,"Grady County, GA",13131,104,63472,163.9,132.4,195.3,16.1
 ,Georgia,13,"Greene County, GA",13133,62,39470,157.1,120.4,201.4,19.9
-,Georgia,13,"Gwinnett County, GA",13135,1360,2386923,57.0,53.9,60,1.5
+,Georgia,13,"Gwinnett County, GA",13135,1360,2386923,57,53.9,60,1.5
 ,Georgia,13,"Habersham County, GA",13137,103,110138,93.5,75.5,111.6,9.2
 ,Georgia,13,"Hall County, GA",13139,399,482325,82.7,74.6,90.8,4.1
 ,Georgia,13,"Hancock County, GA",13141,53,23925,221.5,165.9,289.8,30.4
 ,Georgia,13,"Haralson County, GA",13143,134,73888,181.4,150.6,212.1,15.7
-,Georgia,13,"Harris County, GA",13145,105,88239,119.0,96.2,141.8,11.6
+,Georgia,13,"Harris County, GA",13145,105,88239,119,96.2,141.8,11.6
 ,Georgia,13,"Hart County, GA",13147,93,63878,145.6,117.5,178.4,15.1
 ,Georgia,13,"Heard County, GA",13149,40,30230,132.3,94.5,180.2,20.9
 ,Georgia,13,"Henry County, GA",13151,521,571051,91.2,83.4,99.1,4
 ,Georgia,13,"Houston County, GA",13153,364,395033,92.1,82.7,101.6,4.8
 ,Georgia,13,"Irwin County, GA",13155,26,23878,108.9,71.1,159.5,21.4
 ,Georgia,13,"Jackson County, GA",13157,174,164789,105.6,89.9,121.3,8
-,Georgia,13,"Jasper County, GA",13159,66,35872,184.0,142.3,234.1,22.6
+,Georgia,13,"Jasper County, GA",13159,66,35872,184,142.3,234.1,22.6
 ,Georgia,13,"Jeff Davis County, GA",13161,85,37577,226.2,180.7,279.7,24.5
 ,Georgia,13,"Jefferson County, GA",13163,90,40783,220.7,177.5,271.3,23.3
 ,Georgia,13,"Jenkins County, GA",13165,38,23774,159.8,113.1,219.4,25.9
-,Georgia,13,"Johnson County, GA",13167,27,27558,98.0,64.6,142.5,18.9
+,Georgia,13,"Johnson County, GA",13167,27,27558,98,64.6,142.5,18.9
 ,Georgia,13,"Jones County, GA",13169,85,74462,114.2,91.2,141.2,12.4
 ,Georgia,13,"Lamar County, GA",13171,94,44207,212.6,171.8,260.2,21.9
 ,Georgia,13,"Lanier County, GA",13173,46,27913,164.8,120.7,219.8,24.3
-,Georgia,13,"Laurens County, GA",13175,241,119916,201.0,175.6,226.3,12.9
+,Georgia,13,"Laurens County, GA",13175,241,119916,201,175.6,226.3,12.9
 ,Georgia,13,"Lee County, GA",13177,83,78721,105.4,84,130.7,11.6
 ,Georgia,13,"Liberty County, GA",13179,164,155150,105.7,89.5,121.9,8.3
 ,Georgia,13,"Lincoln County, GA",13181,49,20211,242.4,179.4,320.5,34.6
@@ -466,12 +466,12 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Georgia,13,"Montgomery County, GA",13209,39,22960,169.9,120.8,232.2,27.2
 ,Georgia,13,"Morgan County, GA",13211,77,45619,168.8,133.2,211,19.2
 ,Georgia,13,"Murray County, GA",13213,174,103250,168.5,143.5,193.6,12.8
-,Georgia,13,"Muscogee County, GA",13215,890,520512,171.0,159.8,182.2,5.7
+,Georgia,13,"Muscogee County, GA",13215,890,520512,171,159.8,182.2,5.7
 ,Georgia,13,"Newton County, GA",13217,338,267259,126.5,113,140,6.9
 ,Georgia,13,"Oconee County, GA",13219,43,90667,47.4,34.3,63.9,7.2
 ,Georgia,13,"Oglethorpe County, GA",13221,43,38711,111.1,80.4,149.6,16.9
 ,Georgia,13,"Paulding County, GA",13223,310,404719,76.6,68.1,85.1,4.4
-,Georgia,13,"Peach County, GA",13225,140,66346,211.0,176.1,246,17.8
+,Georgia,13,"Peach County, GA",13225,140,66346,211,176.1,246,17.8
 ,Georgia,13,"Pickens County, GA",13227,109,77343,140.9,114.5,167.4,13.5
 ,Georgia,13,"Pierce County, GA",13229,72,48459,148.6,116.3,187.1,17.5
 ,Georgia,13,"Pike County, GA",13231,57,46698,122.1,92.4,158.1,16.2
@@ -509,7 +509,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Georgia,13,"Walker County, GA",13295,414,179749,230.3,208.1,252.5,11.3
 ,Georgia,13,"Walton County, GA",13297,293,225555,129.9,115,144.8,7.6
 ,Georgia,13,"Ware County, GA",13299,140,90978,153.9,128.4,179.4,13
-,Georgia,13,"Warren County, GA",13301,39,13781,283.0,201.2,386.9,45.3
+,Georgia,13,"Warren County, GA",13301,39,13781,283,201.2,386.9,45.3
 ,Georgia,13,"Washington County, GA",13303,83,54373,152.6,121.6,189.2,16.8
 ,Georgia,13,"Wayne County, GA",13305,144,78397,183.7,153.7,213.7,15.3
 ,Georgia,13,"Wheeler County, GA",13309,34,23801,142.9,98.9,199.6,24.5
@@ -528,14 +528,14 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Idaho,16,"Bear Lake County, ID",16007,11,13619,Unreliable,40.3,144.5,24.4
 ,Idaho,16,"Benewah County, ID",16009,27,22637,119.3,78.6,173.5,23
 ,Idaho,16,"Bingham County, ID",16011,91,106154,85.7,69,105.3,9
-,Idaho,16,"Blaine County, ID",16013,21,58337,36.0,22.3,55,7.9
+,Idaho,16,"Blaine County, ID",16013,21,58337,36,22.3,55,7.9
 ,Idaho,16,"Boise County, ID",16015,21,18872,111.3,68.9,170.1,24.3
 ,Idaho,16,"Bonner County, ID",16017,80,107912,74.1,58.8,92.3,8.3
 ,Idaho,16,"Bonneville County, ID",16019,190,263142,72.2,61.9,82.5,5.2
 ,Idaho,16,"Boundary County, ID",16021,21,27573,76.2,47.1,116.4,16.6
 ,Idaho,16,"Canyon County, ID",16027,363,488000,74.4,66.7,82,3.9
 ,Idaho,16,"Caribou County, ID",16029,10,16199,Unreliable,29.6,113.5,19.5
-,Idaho,16,"Cassia County, ID",16031,47,52803,89.0,65.4,118.4,13
+,Idaho,16,"Cassia County, ID",16031,47,52803,89,65.4,118.4,13
 ,Idaho,16,"Clearwater County, ID",16035,16,22223,Unreliable,41.2,116.9,18
 ,Idaho,16,"Elmore County, ID",16039,45,63477,70.9,51.7,94.9,10.6
 ,Idaho,16,"Franklin County, ID",16041,17,29005,Unreliable,34.1,93.8,14.2
@@ -544,7 +544,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Idaho,16,"Gooding County, ID",16047,48,35474,135.3,99.8,179.4,19.5
 ,Idaho,16,"Idaho County, ID",16049,41,39833,102.9,73.9,139.6,16.1
 ,Idaho,16,"Jefferson County, ID",16051,30,62960,47.6,32.1,68,8.7
-,Idaho,16,"Jerome County, ID",16053,49,54422,90.0,66.6,119,12.9
+,Idaho,16,"Jerome County, ID",16053,49,54422,90,66.6,119,12.9
 ,Idaho,16,"Kootenai County, ID",16055,269,377843,71.2,62.7,79.7,4.3
 ,Idaho,16,"Latah County, ID",16057,53,85299,62.1,46.5,81.3,8.5
 ,Idaho,16,"Lemhi County, ID",16059,21,18971,110.7,68.5,169.2,24.2
@@ -573,19 +573,19 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Illinois,17,"Champaign County, IL",17019,321,479474,66.9,59.6,74.3,3.7
 ,Illinois,17,"Christian County, IL",17021,103,88240,116.7,94.2,139.3,11.5
 ,Illinois,17,"Clark County, IL",17023,57,41043,138.9,105.2,179.9,18.4
-,Illinois,17,"Clay County, IL",17025,39,34219,114.0,81,155.8,18.3
-,Illinois,17,"Clinton County, IL",17027,81,102483,79.0,62.8,98.2,8.8
+,Illinois,17,"Clay County, IL",17025,39,34219,114,81,155.8,18.3
+,Illinois,17,"Clinton County, IL",17027,81,102483,79,62.8,98.2,8.8
 ,Illinois,17,"Coles County, IL",17029,141,123938,113.8,95,132.5,9.6
 ,Illinois,17,"Cook County, IL",17031,14122,14362496,98.3,96.7,99.9,0.8
 ,Illinois,17,"Crawford County, IL",17033,65,52087,124.8,96.3,159.1,15.5
 ,Illinois,17,"Cumberland County, IL",17035,29,28273,102.6,68.7,147.3,19
-,Illinois,17,"DeKalb County, IL",17037,163,243400,67.0,56.7,77.2,5.2
+,Illinois,17,"DeKalb County, IL",17037,163,243400,67,56.7,77.2,5.2
 ,Illinois,17,"De Witt County, IL",17039,43,43070,99.8,72.3,134.5,15.2
 ,Illinois,17,"Douglas County, IL",17041,42,49771,84.4,60.8,114.1,13
 ,Illinois,17,"DuPage County, IL",17043,1284,2527742,50.8,48,53.6,1.4
-,Illinois,17,"Edgar County, IL",17045,70,45765,153.0,119.2,193.2,18.3
+,Illinois,17,"Edgar County, IL",17045,70,45765,153,119.2,193.2,18.3
 ,Illinois,17,"Edwards County, IL",17047,20,16707,119.7,73.1,184.9,26.8
-,Illinois,17,"Effingham County, IL",17049,85,87609,97.0,77.5,120,10.5
+,Illinois,17,"Effingham County, IL",17049,85,87609,97,77.5,120,10.5
 ,Illinois,17,"Fayette County, IL",17051,49,57559,85.1,63,112.5,12.2
 ,Illinois,17,"Ford County, IL",17053,35,34364,101.9,70.9,141.6,17.2
 ,Illinois,17,"Franklin County, IL",17055,111,99594,111.5,90.7,132.2,10.6
@@ -637,14 +637,14 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Illinois,17,"Piatt County, IL",17147,43,42867,100.3,72.6,135.1,15.3
 ,Illinois,17,"Pike County, IL",17149,46,40498,113.6,83.2,151.5,16.7
 ,Illinois,17,"Pope County, IL",17151,14,10874,Unreliable,70.4,216,34.4
-,Illinois,17,"Pulaski County, IL",17153,38,14558,261.0,184.7,358.3,42.3
+,Illinois,17,"Pulaski County, IL",17153,38,14558,261,184.7,358.3,42.3
 ,Illinois,17,"Putnam County, IL",17155,18,15202,Unreliable,70.2,187.1,27.9
 ,Illinois,17,"Randolph County, IL",17157,91,91067,99.9,80.5,122.7,10.5
 ,Illinois,17,"Richland County, IL",17159,48,40312,119.1,87.8,157.9,17.2
 ,Illinois,17,"Rock Island County, IL",17161,441,374333,117.8,106.8,128.8,5.6
 ,Illinois,17,"St. Clair County, IL",17163,833,703136,118.5,110.4,126.5,4.1
 ,Illinois,17,"Saline County, IL",17165,86,62114,138.5,110.7,171,14.9
-,Illinois,17,"Sangamon County, IL",17167,538,527514,102.0,93.4,110.6,4.4
+,Illinois,17,"Sangamon County, IL",17167,538,527514,102,93.4,110.6,4.4
 ,Illinois,17,"Schuyler County, IL",17169,24,19429,123.5,79.1,183.8,25.2
 ,Illinois,17,"Scott County, IL",17171,14,13397,Unreliable,57.1,175.3,27.9
 ,Illinois,17,"Shelby County, IL",17173,54,55324,97.6,73.3,127.4,13.3
@@ -657,12 +657,12 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Illinois,17,"Warren County, IL",17187,48,42000,114.3,84.3,151.5,16.5
 ,Illinois,17,"Washington County, IL",17189,39,38020,102.6,72.9,140.2,16.4
 ,Illinois,17,"Wayne County, IL",17191,47,41338,113.7,83.5,151.2,16.6
-,Illinois,17,"White County, IL",17193,52,35874,145.0,108.3,190.1,20.1
+,Illinois,17,"White County, IL",17193,52,35874,145,108.3,190.1,20.1
 ,Illinois,17,"Whiteside County, IL",17195,139,144349,96.3,80.3,112.3,8.2
 ,Illinois,17,"Will County, IL",17197,1170,1818677,64.3,60.6,68,1.9
 ,Illinois,17,"Williamson County, IL",17199,196,177169,110.6,95.1,126.1,7.9
 ,Illinois,17,"Winnebago County, IL",17201,807,748923,107.8,100.3,115.2,3.8
-,Illinois,17,"Woodford County, IL",17203,61,98392,62.0,47.4,79.6,7.9
+,Illinois,17,"Woodford County, IL",17203,61,98392,62,47.4,79.6,7.9
 ,Indiana,18,"Adams County, IN",18001,76,79510,95.6,75.3,119.6,11
 ,Indiana,18,"Allen County, IN",18003,920,937549,98.1,91.8,104.5,3.2
 ,Indiana,18,"Bartholomew County, IN",18005,212,210826,100.6,87,114.1,6.9
@@ -704,7 +704,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Indiana,18,"Jefferson County, IN",18077,116,84760,136.9,112,161.8,12.7
 ,Indiana,18,"Jennings County, IN",18079,123,72840,168.9,139,198.7,15.2
 ,Indiana,18,"Johnson County, IN",18081,339,385560,87.9,78.6,97.3,4.8
-,Indiana,18,"Knox County, IN",18083,133,91746,145.0,120.3,169.6,12.6
+,Indiana,18,"Knox County, IN",18083,133,91746,145,120.3,169.6,12.6
 ,Indiana,18,"Kosciusko County, IN",18085,187,199875,93.6,80.1,107,6.8
 ,Indiana,18,"Lagrange County, IN",18087,64,85880,74.5,57.4,95.2,9.3
 ,Indiana,18,"Lake County, IN",18089,1588,1271053,124.9,118.8,131.1,3.1
@@ -719,15 +719,15 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Indiana,18,"Montgomery County, IN",18107,125,96063,130.1,107.3,152.9,11.6
 ,Indiana,18,"Morgan County, IN",18109,208,185252,112.3,97,127.5,7.8
 ,Indiana,18,"Newton County, IN",18111,46,36984,124.4,91.1,165.9,18.3
-,Indiana,18,"Noble County, IN",18113,120,122425,98.0,80.5,115.6,8.9
+,Indiana,18,"Noble County, IN",18113,120,122425,98,80.5,115.6,8.9
 ,Indiana,18,"Ohio County, IN",18115,16,16177,Unreliable,56.5,160.6,24.7
 ,Indiana,18,"Orange County, IN",18117,65,50022,129.9,100.3,165.6,16.1
 ,Indiana,18,"Owen County, IN",18119,78,56139,138.9,109.8,173.4,15.7
 ,Indiana,18,"Parke County, IN",18121,43,45290,94.9,68.7,127.9,14.5
 ,Indiana,18,"Perry County, IN",18123,57,52350,108.9,82.5,141.1,14.4
 ,Indiana,18,"Pike County, IN",18125,30,32902,91.2,61.5,130.2,16.6
-,Indiana,18,"Porter County, IN",18127,335,446554,75.0,67,83.1,4.1
-,Indiana,18,"Posey County, IN",18129,67,67685,99.0,76.7,125.7,12.1
+,Indiana,18,"Porter County, IN",18127,335,446554,75,67,83.1,4.1
+,Indiana,18,"Posey County, IN",18129,67,67685,99,76.7,125.7,12.1
 ,Indiana,18,"Pulaski County, IN",18131,54,33166,162.8,122.3,212.4,22.2
 ,Indiana,18,"Putnam County, IN",18133,96,95410,100.6,81.5,122.9,10.3
 ,Indiana,18,"Randolph County, IN",18135,75,63680,117.8,92.6,147.6,13.6
@@ -740,8 +740,8 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Indiana,18,"Starke County, IN",18149,93,59817,155.5,125.5,190.5,16.1
 ,Indiana,18,"Steuben County, IN",18151,83,87059,95.3,75.9,118.2,10.5
 ,Indiana,18,"Sullivan County, IN",18153,87,57418,151.5,121.4,186.9,16.2
-,Indiana,18,"Switzerland County, IN",18155,40,26848,149.0,106.4,202.9,23.6
-,Indiana,18,"Tippecanoe County, IN",18157,369,409901,90.0,80.8,99.2,4.7
+,Indiana,18,"Switzerland County, IN",18155,40,26848,149,106.4,202.9,23.6
+,Indiana,18,"Tippecanoe County, IN",18157,369,409901,90,80.8,99.2,4.7
 ,Indiana,18,"Tipton County, IN",18159,41,39513,103.8,74.5,140.8,16.2
 ,Indiana,18,"Union County, IN",18161,14,18835,Unreliable,40.6,124.7,19.9
 ,Indiana,18,"Vanderburgh County, IN",18163,558,474561,117.6,107.8,127.3,5
@@ -753,7 +753,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Indiana,18,"Washington County, IN",18175,115,73533,156.4,127.8,185,14.6
 ,Indiana,18,"Wayne County, IN",18177,238,170810,139.3,121.6,157,9
 ,Indiana,18,"Wells County, IN",18179,73,70556,103.5,81.1,130.1,12.1
-,Indiana,18,"White County, IN",18181,68,60730,112.0,86.9,142,13.6
+,Indiana,18,"White County, IN",18181,68,60730,112,86.9,142,13.6
 ,Indiana,18,"Whitley County, IN",18183,68,88050,77.2,60,97.9,9.4
 ,Iowa,19,"Adair County, IA",19001,19,18159,Unreliable,63,163.4,24
 ,Iowa,19,"Adams County, IA",19003,17,9595,Unreliable,103.2,283.7,43
@@ -773,20 +773,20 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Iowa,19,"Cedar County, IA",19031,38,47721,79.6,56.4,109.3,12.9
 ,Iowa,19,"Cerro Gordo County, IA",19033,148,111038,133.3,111.8,154.8,11
 ,Iowa,19,"Cherokee County, IA",19035,39,29145,133.8,95.2,182.9,21.4
-,Iowa,19,"Chickasaw County, IA",19037,22,30123,73.0,45.8,110.6,15.6
+,Iowa,19,"Chickasaw County, IA",19037,22,30123,73,45.8,110.6,15.6
 ,Iowa,19,"Clarke County, IA",19039,23,23162,99.3,62.9,149,20.7
 ,Iowa,19,"Clay County, IA",19041,32,41499,77.1,52.7,108.9,13.6
 ,Iowa,19,"Clayton County, IA",19043,38,44146,86.1,60.9,118.1,14
 ,Iowa,19,"Clinton County, IA",19045,144,121653,118.4,99,137.7,9.9
 ,Iowa,19,"Crawford County, IA",19047,37,41479,89.2,62.8,123,14.7
-,Iowa,19,"Dallas County, IA",19049,88,209597,42.0,33.7,51.7,4.5
+,Iowa,19,"Dallas County, IA",19049,88,209597,42,33.7,51.7,4.5
 ,Iowa,19,"Davis County, IA",19051,18,20223,Unreliable,52.8,140.7,21
 ,Iowa,19,"Decatur County, IA",19053,21,17481,120.1,74.4,183.6,26.2
 ,Iowa,19,"Delaware County, IA",19055,36,44125,81.6,57.1,112.9,13.6
 ,Iowa,19,"Des Moines County, IA",19057,102,101404,100.6,81.1,120.1,10
-,Iowa,19,"Dickinson County, IA",19059,40,42994,93.0,66.5,126.7,14.7
+,Iowa,19,"Dickinson County, IA",19059,40,42994,93,66.5,126.7,14.7
 ,Iowa,19,"Dubuque County, IA",19061,194,242684,79.9,68.7,91.2,5.7
-,Iowa,19,"Emmet County, IA",19063,26,24289,107.0,69.9,156.8,21
+,Iowa,19,"Emmet County, IA",19063,26,24289,107,69.9,156.8,21
 ,Iowa,19,"Fayette County, IA",19065,57,49259,115.7,87.6,149.9,15.3
 ,Iowa,19,"Floyd County, IA",19067,56,38574,145.2,109.7,188.5,19.4
 ,Iowa,19,"Franklin County, IA",19069,18,25779,Unreliable,41.4,110.4,16.5
@@ -796,7 +796,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Iowa,19,"Guthrie County, IA",19077,22,26472,83.1,52.1,125.8,17.7
 ,Iowa,19,"Hamilton County, IA",19079,27,38267,70.6,46.5,102.7,13.6
 ,Iowa,19,"Hancock County, IA",19081,27,27746,97.3,64.1,141.6,18.7
-,Iowa,19,"Hardin County, IA",19083,34,41982,81.0,56.1,113.2,13.9
+,Iowa,19,"Hardin County, IA",19083,34,41982,81,56.1,113.2,13.9
 ,Iowa,19,"Harrison County, IA",19085,29,36457,79.5,53.3,114.2,14.8
 ,Iowa,19,"Henry County, IA",19087,45,50684,88.8,64.8,118.8,13.2
 ,Iowa,19,"Howard County, IA",19089,23,22814,100.8,63.9,151.3,21
@@ -822,7 +822,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Iowa,19,"Mitchell County, IA",19131,20,25254,79.2,48.4,122.3,17.7
 ,Iowa,19,"Monona County, IA",19133,26,21242,122.4,80,179.3,24
 ,Iowa,19,"Monroe County, IA",19135,25,19900,125.6,81.3,185.5,25.1
-,Iowa,19,"Montgomery County, IA",19137,33,25574,129.0,88.8,181.2,22.5
+,Iowa,19,"Montgomery County, IA",19137,33,25574,129,88.8,181.2,22.5
 ,Iowa,19,"Muscatine County, IA",19139,96,109243,87.9,71.2,107.3,9
 ,Iowa,19,"O'Brien County, IA",19141,29,34206,84.8,56.8,121.8,15.7
 ,Iowa,19,"Osceola County, IA",19143,18,15274,Unreliable,69.8,186.2,27.8
@@ -843,7 +843,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Iowa,19,"Union County, IA",19175,40,30614,130.7,93.3,177.9,20.7
 ,Iowa,19,"Van Buren County, IA",19177,26,18300,142.1,92.8,208.2,27.9
 ,Iowa,19,"Wapello County, IA",19179,138,90260,152.9,127.4,178.4,13
-,Iowa,19,"Warren County, IA",19181,68,121350,56.0,43.5,71,6.8
+,Iowa,19,"Warren County, IA",19181,68,121350,56,43.5,71,6.8
 ,Iowa,19,"Washington County, IA",19183,47,54502,86.2,63.4,114.7,12.6
 ,Iowa,19,"Wayne County, IA",19185,19,14831,Unreliable,77.1,200.1,29.4
 ,Iowa,19,"Webster County, IA",19187,108,91678,117.8,95.6,140,11.3
@@ -857,7 +857,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Kansas,20,"Atchison County, KS",20005,50,38372,130.3,96.7,171.8,18.4
 ,Kansas,20,"Barber County, KS",20007,14,11998,Unreliable,63.8,195.8,31.2
 ,Kansas,20,"Barton County, KS",20009,70,67038,104.4,81.4,131.9,12.5
-,Kansas,20,"Bourbon County, KS",20011,47,34557,136.0,99.9,180.9,19.8
+,Kansas,20,"Bourbon County, KS",20011,47,34557,136,99.9,180.9,19.8
 ,Kansas,20,"Brown County, KS",20013,31,23784,130.3,88.6,185,23.4
 ,Kansas,20,"Butler County, KS",20015,149,169203,88.1,73.9,102.2,7.2
 ,Kansas,20,"Chautauqua County, KS",20019,18,8161,Unreliable,130.7,348.6,52
@@ -867,7 +867,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Kansas,20,"Coffey County, KS",20031,26,21437,121.3,79.2,177.7,23.8
 ,Kansas,20,"Cowley County, KS",20035,115,87465,131.5,107.5,155.5,12.3
 ,Kansas,20,"Crawford County, KS",20037,99,88534,111.8,90.9,136.1,11.2
-,Kansas,20,"Dickinson County, KS",20041,60,48385,124.0,94.6,159.6,16
+,Kansas,20,"Dickinson County, KS",20041,60,48385,124,94.6,159.6,16
 ,Kansas,20,"Doniphan County, KS",20043,22,19081,115.3,72.3,174.6,24.6
 ,Kansas,20,"Douglas County, KS",20045,138,270217,51.1,42.5,59.6,4.3
 ,Kansas,20,"Elk County, KS",20049,11,6091,Unreliable,90.2,323.1,54.5
@@ -908,7 +908,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Kansas,20,"Pawnee County, KS",20145,23,18340,125.4,79.5,188.2,26.1
 ,Kansas,20,"Phillips County, KS",20147,13,13189,Unreliable,52.5,168.6,27.3
 ,Kansas,20,"Pottawatomie County, KS",20149,45,56748,79.3,57.8,106.1,11.8
-,Kansas,20,"Pratt County, KS",20151,22,23150,95.0,59.6,143.9,20.3
+,Kansas,20,"Pratt County, KS",20151,22,23150,95,59.6,143.9,20.3
 ,Kansas,20,"Reno County, KS",20155,174,158809,109.6,93.3,125.8,8.3
 ,Kansas,20,"Republic County, KS",20157,23,11210,205.2,130.1,307.9,42.8
 ,Kansas,20,"Rice County, KS",20159,32,23175,138.1,94.4,194.9,24.4
@@ -959,24 +959,24 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Kentucky,21,"Clay County, KY",21051,121,59883,202.1,166.1,238.1,18.4
 ,Kentucky,21,"Clinton County, KY",21053,49,26183,187.1,138.5,247.4,26.7
 ,Kentucky,21,"Crittenden County, KY",21055,47,23532,199.7,146.8,265.6,29.1
-,Kentucky,21,"Cumberland County, KY",21057,32,16933,189.0,129.3,266.8,33.4
+,Kentucky,21,"Cumberland County, KY",21057,32,16933,189,129.3,266.8,33.4
 ,Kentucky,21,"Daviess County, KY",21059,277,253142,109.4,96.5,122.3,6.6
 ,Kentucky,21,"Edmonson County, KY",21061,42,31295,134.2,96.7,181.4,20.7
 ,Kentucky,21,"Elliott County, KY",21063,29,21219,136.7,91.5,196.3,25.4
 ,Kentucky,21,"Estill County, KY",21065,95,38558,246.4,199.3,301.2,25.3
 ,Kentucky,21,"Fayette County, KY",21067,640,823558,77.7,71.7,83.7,3.1
-,Kentucky,21,"Fleming County, KY",21069,84,37497,224.0,178.7,277.3,24.4
+,Kentucky,21,"Fleming County, KY",21069,84,37497,224,178.7,277.3,24.4
 ,Kentucky,21,"Floyd County, KY",21071,233,102613,227.1,197.9,256.2,14.9
 ,Kentucky,21,"Franklin County, KY",21073,171,132704,128.9,109.5,148.2,9.9
 ,Kentucky,21,"Fulton County, KY",21075,44,16340,269.3,195.7,361.5,40.6
 ,Kentucky,21,"Gallatin County, KY",21077,40,22916,174.6,124.7,237.7,27.6
-,Kentucky,21,"Garrard County, KY",21079,43,46245,93.0,67.3,125.2,14.2
+,Kentucky,21,"Garrard County, KY",21079,43,46245,93,67.3,125.2,14.2
 ,Kentucky,21,"Grant County, KY",21081,111,63927,173.6,141.3,205.9,16.5
-,Kentucky,21,"Graves County, KY",21083,129,94169,137.0,113.3,160.6,12.1
+,Kentucky,21,"Graves County, KY",21083,129,94169,137,113.3,160.6,12.1
 ,Kentucky,21,"Grayson County, KY",21085,94,67789,138.7,112.1,169.7,14.3
 ,Kentucky,21,"Green County, KY",21087,51,28996,175.9,131,231.3,24.6
 ,Kentucky,21,"Greenup County, KY",21089,143,93851,152.4,127.4,177.3,12.7
-,Kentucky,21,"Hancock County, KY",21091,29,22137,131.0,87.7,188.1,24.3
+,Kentucky,21,"Hancock County, KY",21091,29,22137,131,87.7,188.1,24.3
 ,Kentucky,21,"Hardin County, KY",21093,293,282195,103.8,91.9,115.7,6.1
 ,Kentucky,21,"Harlan County, KY",21095,187,74172,252.1,216,288.3,18.4
 ,Kentucky,21,"Harrison County, KY",21097,86,48829,176.1,140.9,217.5,19
@@ -995,7 +995,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Kentucky,21,"Larue County, KY",21123,45,37141,121.2,88.4,162.1,18.1
 ,Kentucky,21,"Laurel County, KY",21125,244,160212,152.3,133.2,171.4,9.7
 ,Kentucky,21,"Lawrence County, KY",21127,90,41992,214.3,172.3,263.4,22.6
-,Kentucky,21,"Lee County, KY",21129,41,20402,201.0,144.2,272.6,31.4
+,Kentucky,21,"Lee County, KY",21129,41,20402,201,144.2,272.6,31.4
 ,Kentucky,21,"Leslie County, KY",21131,59,29635,199.1,151.6,256.8,25.9
 ,Kentucky,21,"Letcher County, KY",21133,154,63519,242.4,204.2,280.7,19.5
 ,Kentucky,21,"Lewis County, KY",21135,51,36243,140.7,104.8,185,19.7
@@ -1006,7 +1006,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Kentucky,21,"McCracken County, KY",21145,287,170684,168.1,148.7,187.6,9.9
 ,Kentucky,21,"McCreary County, KY",21147,96,49395,194.4,157.4,237.3,19.8
 ,Kentucky,21,"McLean County, KY",21149,27,23905,112.9,74.4,164.3,21.7
-,Kentucky,21,"Madison County, KY",21151,252,211683,119.0,104.3,133.7,7.5
+,Kentucky,21,"Madison County, KY",21151,252,211683,119,104.3,133.7,7.5
 ,Kentucky,21,"Magoffin County, KY",21153,55,34923,157.5,118.6,205,21.2
 ,Kentucky,21,"Marion County, KY",21155,60,51899,115.6,88.2,148.8,14.9
 ,Kentucky,21,"Marshall County, KY",21157,161,80323,200.4,169.5,231.4,15.8
@@ -1015,9 +1015,9 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Kentucky,21,"Meade County, KY",21163,86,77877,110.4,88.3,136.4,11.9
 ,Kentucky,21,"Menifee County, KY",21165,28,16338,171.4,113.9,247.7,32.4
 ,Kentucky,21,"Mercer County, KY",21167,71,55221,128.6,100.4,162.2,15.3
-,Kentucky,21,"Metcalfe County, KY",21169,39,25326,154.0,109.5,210.5,24.7
-,Kentucky,21,"Monroe County, KY",21171,55,27367,201.0,151.4,261.6,27.1
-,Kentucky,21,"Montgomery County, KY",21173,102,72876,140.0,112.8,167.1,13.9
+,Kentucky,21,"Metcalfe County, KY",21169,39,25326,154,109.5,210.5,24.7
+,Kentucky,21,"Monroe County, KY",21171,55,27367,201,151.4,261.6,27.1
+,Kentucky,21,"Montgomery County, KY",21173,102,72876,140,112.8,167.1,13.9
 ,Kentucky,21,"Morgan County, KY",21175,52,38870,133.8,99.9,175.4,18.6
 ,Kentucky,21,"Muhlenberg County, KY",21177,156,81358,191.7,161.7,221.8,15.4
 ,Kentucky,21,"Nelson County, KY",21179,132,119632,110.3,91.5,129.2,9.6
@@ -1039,7 +1039,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Kentucky,21,"Shelby County, KY",21211,117,120189,97.3,79.7,115,9
 ,Kentucky,21,"Simpson County, KY",21213,79,46111,171.3,135.6,213.5,19.3
 ,Kentucky,21,"Spencer County, KY",21215,46,50035,91.9,67.3,122.6,13.6
-,Kentucky,21,"Taylor County, KY",21217,90,61245,147.0,118.2,180.6,15.5
+,Kentucky,21,"Taylor County, KY",21217,90,61245,147,118.2,180.6,15.5
 ,Kentucky,21,"Todd County, KY",21219,49,30883,158.7,117.4,209.8,22.7
 ,Kentucky,21,"Trigg County, KY",21221,50,35927,139.2,103.3,183.5,19.7
 ,Kentucky,21,"Trimble County, KY",21223,36,23165,155.4,108.8,215.1,25.9
@@ -1048,35 +1048,35 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Kentucky,21,"Washington County, KY",21229,42,30179,139.2,100.3,188.1,21.5
 ,Kentucky,21,"Wayne County, KY",21231,76,53879,141.1,111.1,176.6,16.2
 ,Kentucky,21,"Webster County, KY",21233,69,35261,195.7,152.3,247.6,23.6
-,Kentucky,21,"Whitley County, KY",21235,222,88434,251.0,218,284.1,16.8
+,Kentucky,21,"Whitley County, KY",21235,222,88434,251,218,284.1,16.8
 ,Kentucky,21,"Wolfe County, KY",21237,64,18629,343.6,264.6,438.7,42.9
 ,Kentucky,21,"Woodford County, KY",21239,74,68423,108.2,84.9,135.8,12.6
 ,Louisiana,22,"Acadia Parish, LA",22001,265,158123,167.6,147.4,187.8,10.3
 ,Louisiana,22,"Allen Parish, LA",22003,83,70982,116.9,93.1,145,12.8
-,Louisiana,22,"Ascension Parish, LA",22005,317,313955,101.0,89.9,112.1,5.7
+,Louisiana,22,"Ascension Parish, LA",22005,317,313955,101,89.9,112.1,5.7
 ,Louisiana,22,"Assumption Parish, LA",22007,78,60512,128.9,101.9,160.9,14.6
 ,Louisiana,22,"Avoyelles Parish, LA",22009,207,107081,193.3,167,219.6,13.4
-,Louisiana,22,"Beauregard Parish, LA",22011,209,94549,221.0,191.1,251,15.3
+,Louisiana,22,"Beauregard Parish, LA",22011,209,94549,221,191.1,251,15.3
 ,Louisiana,22,"Bienville Parish, LA",22013,73,34467,211.8,166,266.3,24.8
 ,Louisiana,22,"Bossier Parish, LA",22015,375,325544,115.2,103.5,126.9,5.9
 ,Louisiana,22,"Caddo Parish, LA",22017,1001,652656,153.4,143.9,162.9,4.8
 ,Louisiana,22,"Calcasieu Parish, LA",22019,886,510394,173.6,162.2,185,5.8
 ,Louisiana,22,"Caldwell Parish, LA",22021,66,26141,252.5,195.3,321.2,31.1
 ,Louisiana,22,"Cameron Parish, LA",22023,21,18112,115.9,71.8,177.2,25.3
-,Louisiana,22,"Catahoula Parish, LA",22025,76,26763,284.0,223.7,355.4,32.6
-,Louisiana,22,"Claiborne Parish, LA",22027,74,45408,163.0,128,204.6,18.9
+,Louisiana,22,"Catahoula Parish, LA",22025,76,26763,284,223.7,355.4,32.6
+,Louisiana,22,"Claiborne Parish, LA",22027,74,45408,163,128,204.6,18.9
 ,Louisiana,22,"Concordia Parish, LA",22029,105,51739,202.9,164.1,241.8,19.8
 ,Louisiana,22,"De Soto Parish, LA",22031,136,69432,195.9,163,228.8,16.8
 ,Louisiana,22,"East Baton Rouge Parish, LA",22033,1577,1119495,140.9,133.9,147.8,3.5
 ,Louisiana,22,"East Carroll Parish, LA",22035,37,19028,194.5,136.9,268,32
 ,Louisiana,22,"East Feliciana Parish, LA",22037,102,55251,184.6,148.8,220.4,18.3
 ,Louisiana,22,"Evangeline Parish, LA",22039,148,83814,176.6,148.1,205,14.5
-,Louisiana,22,"Franklin Parish, LA",22041,170,50142,339.0,288.1,390,26
+,Louisiana,22,"Franklin Parish, LA",22041,170,50142,339,288.1,390,26
 ,Louisiana,22,"Grant Parish, LA",22043,72,62644,114.9,89.9,144.7,13.5
 ,Louisiana,22,"Iberia Parish, LA",22045,322,187265,171.9,153.2,190.7,9.6
 ,Louisiana,22,"Iberville Parish, LA",22047,123,91838,133.9,110.3,157.6,12.1
 ,Louisiana,22,"Jackson Parish, LA",22049,72,40957,175.8,137.5,221.4,20.7
-,Louisiana,22,"Jefferson Parish, LA",22051,1389,1186863,117.0,110.9,123.2,3.1
+,Louisiana,22,"Jefferson Parish, LA",22051,1389,1186863,117,110.9,123.2,3.1
 ,Louisiana,22,"Jefferson Davis Parish, LA",22053,137,78944,173.5,144.5,202.6,14.8
 ,Louisiana,22,"Lafayette Parish, LA",22055,620,636291,97.4,89.8,105.1,3.9
 ,Louisiana,22,"Lafourche Parish, LA",22057,264,258488,102.1,89.8,114.5,6.3
@@ -1089,16 +1089,16 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Louisiana,22,"Orleans Parish, LA",22071,1395,1090304,127.9,121.2,134.7,3.4
 ,Louisiana,22,"Ouachita Parish, LA",22073,519,394846,131.4,120.1,142.8,5.8
 ,Louisiana,22,"Plaquemines Parish, LA",22075,65,61600,105.5,81.4,134.5,13.1
-,Louisiana,22,"Pointe Coupee Parish, LA",22077,102,56979,179.0,144.3,213.8,17.7
+,Louisiana,22,"Pointe Coupee Parish, LA",22077,102,56979,179,144.3,213.8,17.7
 ,Louisiana,22,"Rapides Parish, LA",22079,714,336255,212.3,196.8,227.9,7.9
 ,Louisiana,22,"Red River Parish, LA",22081,44,22052,199.5,145,267.9,30.1
 ,Louisiana,22,"Richland Parish, LA",22083,109,52806,206.4,167.7,245.2,19.8
 ,Louisiana,22,"Sabine Parish, LA",22085,87,59625,145.9,116.9,180,15.6
 ,Louisiana,22,"St. Bernard Parish, LA",22087,173,119645,144.6,123,166.1,11
-,Louisiana,22,"St. Charles Parish, LA",22089,133,143015,93.0,77.2,108.8,8.1
+,Louisiana,22,"St. Charles Parish, LA",22089,133,143015,93,77.2,108.8,8.1
 ,Louisiana,22,"St. Helena Parish, LA",22091,53,27290,194.2,145.5,254,26.7
 ,Louisiana,22,"St. James Parish, LA",22093,80,56233,142.3,112.8,177.1,15.9
-,Louisiana,22,"St. John the Baptist Parish, LA",22095,194,116193,167.0,143.5,190.5,12
+,Louisiana,22,"St. John the Baptist Parish, LA",22095,194,116193,167,143.5,190.5,12
 ,Louisiana,22,"St. Landry Parish, LA",22097,457,206466,221.3,201.1,241.6,10.4
 ,Louisiana,22,"St. Martin Parish, LA",22099,236,140728,167.7,146.3,189.1,10.9
 ,Louisiana,22,"St. Mary Parish, LA",22101,214,137253,155.9,135,176.8,10.7
@@ -1111,7 +1111,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Louisiana,22,"Vernon Parish, LA",22115,153,128205,119.3,100.4,138.3,9.6
 ,Louisiana,22,"Washington Parish, LA",22117,250,118726,210.6,184.5,236.7,13.3
 ,Louisiana,22,"Webster Parish, LA",22119,202,101583,198.9,171.4,226.3,14
-,Louisiana,22,"West Baton Rouge Parish, LA",22121,92,68166,135.0,108.8,165.5,14.1
+,Louisiana,22,"West Baton Rouge Parish, LA",22121,92,68166,135,108.8,165.5,14.1
 ,Louisiana,22,"West Carroll Parish, LA",22123,58,28236,205.4,156,265.5,27
 ,Louisiana,22,"West Feliciana Parish, LA",22125,63,49837,126.4,97.1,161.7,15.9
 ,Louisiana,22,"Winn Parish, LA",22127,106,39513,268.3,217.2,319.3,26.1
@@ -1123,7 +1123,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Maine,23,"Kennebec County, ME",23011,311,327741,94.9,84.3,105.4,5.4
 ,Maine,23,"Knox County, ME",23013,78,104731,74.5,58.9,93,8.4
 ,Maine,23,"Lincoln County, ME",23015,73,86770,84.1,65.9,105.8,9.8
-,Maine,23,"Oxford County, ME",23017,133,154596,86.0,71.4,100.7,7.5
+,Maine,23,"Oxford County, ME",23017,133,154596,86,71.4,100.7,7.5
 ,Maine,23,"Penobscot County, ME",23019,361,407128,88.7,79.5,97.8,4.7
 ,Maine,23,"Piscataquis County, ME",23021,45,44760,100.5,73.3,134.5,15
 ,Maine,23,"Sagadahoc County, ME",23023,66,95236,69.3,53.6,88.2,8.5
@@ -1138,7 +1138,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Maryland,24,"Caroline County, MD",24011,92,85865,107.1,86.4,131.4,11.2
 ,Maryland,24,"Carroll County, MD",24013,352,446168,78.9,70.7,87.1,4.2
 ,Maryland,24,"Cecil County, MD",24015,337,276663,121.8,108.8,134.8,6.6
-,Maryland,24,"Charles County, MD",24017,343,423578,81.0,72.4,89.5,4.4
+,Maryland,24,"Charles County, MD",24017,343,423578,81,72.4,89.5,4.4
 ,Maryland,24,"Dorchester County, MD",24019,111,83391,133.1,108.3,157.9,12.6
 ,Maryland,24,"Frederick County, MD",24021,451,662036,68.1,61.8,74.4,3.2
 ,Maryland,24,"Garrett County, MD",24023,86,76660,112.2,89.7,138.5,12.1
@@ -1158,17 +1158,17 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Massachusetts,25,"Barnstable County, MA",25001,379,527760,71.8,64.6,79,3.7
 ,Massachusetts,25,"Berkshire County, MA",25003,300,330596,90.7,80.5,101,5.2
 ,Massachusetts,25,"Bristol County, MA",25005,1119,1485287,75.3,70.9,79.8,2.3
-,Massachusetts,25,"Dukes County, MA",25007,29,47512,61.0,40.9,87.7,11.3
+,Massachusetts,25,"Dukes County, MA",25007,29,47512,61,40.9,87.7,11.3
 ,Massachusetts,25,"Essex County, MA",25009,1222,2039507,59.9,56.6,63.3,1.7
 ,Massachusetts,25,"Franklin County, MA",25011,151,197926,76.3,64.1,88.5,6.2
 ,Massachusetts,25,"Hampden County, MA",25013,972,1202062,80.9,75.8,85.9,2.6
 ,Massachusetts,25,"Hampshire County, MA",25015,242,373755,64.7,56.6,72.9,4.2
 ,Massachusetts,25,"Middlesex County, MA",25017,1923,4364320,44.1,42.1,46,1
 ,Massachusetts,25,"Nantucket County, MA",25019,12,31626,Unreliable,19.6,66.3,11
-,Massachusetts,25,"Norfolk County, MA",25021,935,1868359,50.0,46.8,53.3,1.6
+,Massachusetts,25,"Norfolk County, MA",25021,935,1868359,50,46.8,53.3,1.6
 ,Massachusetts,25,"Plymouth County, MA",25023,832,1333401,62.4,58.2,66.6,2.2
 ,Massachusetts,25,"Suffolk County, MA",25025,1097,2181290,50.3,47.3,53.3,1.5
-,Massachusetts,25,"Worcester County, MA",25027,1447,2192561,66.0,62.6,69.4,1.7
+,Massachusetts,25,"Worcester County, MA",25027,1447,2192561,66,62.6,69.4,1.7
 ,Michigan,26,"Alcona County, MI",26001,45,24574,183.1,133.6,245,27.3
 ,Michigan,26,"Alger County, MI",26003,21,25514,82.3,51,125.8,18
 ,Michigan,26,"Allegan County, MI",26005,259,296224,87.4,76.8,98.1,5.4
@@ -1206,7 +1206,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Michigan,26,"Iosco County, MI",26069,123,62141,197.9,163,232.9,17.8
 ,Michigan,26,"Iron County, MI",26071,29,28135,103.1,69,148,19.1
 ,Michigan,26,"Isabella County, MI",26073,144,147922,97.3,81.4,113.2,8.1
-,Michigan,26,"Jackson County, MI",26075,395,420096,94.0,84.8,103.3,4.7
+,Michigan,26,"Jackson County, MI",26075,395,420096,94,84.8,103.3,4.7
 ,Michigan,26,"Kalamazoo County, MI",26077,518,625899,82.8,75.6,89.9,3.6
 ,Michigan,26,"Kalkaska County, MI",26079,56,45309,123.6,93.4,160.5,16.5
 ,Michigan,26,"Kent County, MI",26081,1252,1658304,75.5,71.3,79.7,2.1
@@ -1214,7 +1214,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Michigan,26,"Lapeer County, MI",26087,214,236833,90.4,78.3,102.5,6.2
 ,Michigan,26,"Leelanau County, MI",26089,27,52690,51.2,33.8,74.6,9.9
 ,Michigan,26,"Lenawee County, MI",26091,255,256010,99.6,87.4,111.8,6.2
-,Michigan,26,"Livingston County, MI",26093,312,503517,62.0,55.1,68.8,3.5
+,Michigan,26,"Livingston County, MI",26093,312,503517,62,55.1,68.8,3.5
 ,Michigan,26,"Luce County, MI",26095,19,17888,Unreliable,63.9,165.9,24.4
 ,Michigan,26,"Mackinac County, MI",26097,33,28158,117.2,80.7,164.6,20.4
 ,Michigan,26,"Macomb County, MI",26099,2278,2320828,98.2,94.1,102.2,2.1
@@ -1249,7 +1249,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Michigan,26,"Tuscola County, MI",26157,147,140901,104.3,87.5,121.2,8.6
 ,Michigan,26,"Van Buren County, MI",26159,226,194916,115.9,100.8,131.1,7.7
 ,Michigan,26,"Washtenaw County, MI",26161,533,895433,59.5,54.5,64.6,2.6
-,Michigan,26,"Wayne County, MI",26163,8652,4626038,187.0,183.1,191,2
+,Michigan,26,"Wayne County, MI",26163,8652,4626038,187,183.1,191,2
 ,Michigan,26,"Wexford County, MI",26165,92,84342,109.1,87.9,133.8,11.4
 ,Minnesota,27,"Aitkin County, MN",27001,23,37319,61.6,39.1,92.5,12.9
 ,Minnesota,27,"Anoka County, MN",27003,431,947912,45.5,41.2,49.8,2.2
@@ -1257,7 +1257,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Minnesota,27,"Beltrami County, MN",27007,85,106029,80.2,64,99.1,8.7
 ,Minnesota,27,"Benton County, MN",27009,59,104683,56.4,42.9,72.7,7.3
 ,Minnesota,27,"Blue Earth County, MN",27013,91,149912,60.7,48.9,74.5,6.4
-,Minnesota,27,"Brown County, MN",27015,32,61538,52.0,35.6,73.4,9.2
+,Minnesota,27,"Brown County, MN",27015,32,61538,52,35.6,73.4,9.2
 ,Minnesota,27,"Carlton County, MN",27017,74,94553,78.3,61.5,98.3,9.1
 ,Minnesota,27,"Carver County, MN",27019,88,263078,33.5,26.8,41.2,3.6
 ,Minnesota,27,"Cass County, MN",27021,76,69570,109.2,86.1,136.7,12.5
@@ -1266,7 +1266,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Minnesota,27,"Clay County, MN",27027,89,146283,60.8,48.9,74.9,6.4
 ,Minnesota,27,"Clearwater County, MN",27029,33,21441,153.9,105.9,216.1,26.8
 ,Minnesota,27,"Cottonwood County, MN",27033,20,26942,74.2,45.3,114.6,16.6
-,Minnesota,27,"Crow Wing County, MN",27035,109,157989,69.0,56,81.9,6.6
+,Minnesota,27,"Crow Wing County, MN",27035,109,157989,69,56,81.9,6.6
 ,Minnesota,27,"Dakota County, MN",27037,482,1128370,42.7,38.9,46.5,1.9
 ,Minnesota,27,"Dodge County, MN",27039,27,52598,51.3,33.8,74.7,9.9
 ,Minnesota,27,"Douglas County, MN",27041,59,91267,64.6,49.2,83.4,8.4
@@ -1295,12 +1295,12 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Minnesota,27,"Meeker County, MN",27093,29,57812,50.2,33.6,72,9.3
 ,Minnesota,27,"Mille Lacs County, MN",27095,51,65282,78.1,58.2,102.7,10.9
 ,Minnesota,27,"Morrison County, MN",27097,61,84534,72.2,55.2,92.7,9.2
-,Minnesota,27,"Mower County, MN",27099,63,96853,65.0,50,83.2,8.2
+,Minnesota,27,"Mower County, MN",27099,63,96853,65,50,83.2,8.2
 ,Minnesota,27,"Murray County, MN",27101,12,20241,Unreliable,30.6,103.6,17.1
 ,Minnesota,27,"Nicollet County, MN",27103,30,83480,35.9,24.2,51.3,6.6
 ,Minnesota,27,"Nobles County, MN",27105,30,52758,56.9,38.4,81.2,10.4
 ,Minnesota,27,"Norman County, MN",27107,14,15897,Unreliable,48.1,147.8,23.5
-,Minnesota,27,"Olmsted County, MN",27109,185,401790,46.0,39.4,52.7,3.4
+,Minnesota,27,"Olmsted County, MN",27109,185,401790,46,39.4,52.7,3.4
 ,Minnesota,27,"Otter Tail County, MN",27111,145,141239,102.7,86,119.4,8.5
 ,Minnesota,27,"Pennington County, MN",27113,32,36494,87.7,60,123.8,15.5
 ,Minnesota,27,"Pine County, MN",27115,63,78544,80.2,61.6,102.6,10.1
@@ -1309,7 +1309,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Minnesota,27,"Pope County, MN",27121,18,27234,Unreliable,39.2,104.5,15.6
 ,Minnesota,27,"Ramsey County, MN",27123,876,1404564,62.4,58.2,66.5,2.1
 ,Minnesota,27,"Redwood County, MN",27127,29,37085,78.2,52.4,112.3,14.5
-,Minnesota,27,"Renville County, MN",27129,41,37619,109.0,78.2,147.9,17
+,Minnesota,27,"Renville County, MN",27129,41,37619,109,78.2,147.9,17
 ,Minnesota,27,"Rice County, MN",27131,86,159040,54.1,43.3,66.8,5.8
 ,Minnesota,27,"Rock County, MN",27133,18,22632,Unreliable,47.1,125.7,18.7
 ,Minnesota,27,"Roseau County, MN",27135,23,40482,56.8,36,85.3,11.8
@@ -1332,7 +1332,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Minnesota,27,"Wright County, MN",27171,139,342761,40.6,33.8,47.3,3.4
 ,Minnesota,27,"Yellow Medicine County, MN",27173,15,24701,Unreliable,34,100.2,15.7
 ,Mississippi,28,"Adams County, MS",28001,140,84945,164.8,137.5,192.1,13.9
-,Mississippi,28,"Alcorn County, MS",28003,176,95639,184.0,156.8,211.2,13.9
+,Mississippi,28,"Alcorn County, MS",28003,176,95639,184,156.8,211.2,13.9
 ,Mississippi,28,"Amite County, MS",28005,60,31929,187.9,143.4,241.9,24.3
 ,Mississippi,28,"Attala County, MS",28007,77,45502,169.2,133.5,211.5,19.3
 ,Mississippi,28,"Benton County, MS",28009,45,21590,208.4,152,278.9,31.1
@@ -1346,10 +1346,10 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Mississippi,28,"Clay County, MS",28025,116,50683,228.9,187.2,270.5,21.3
 ,Mississippi,28,"Coahoma County, MS",28027,142,59361,239.2,199.9,278.6,20.1
 ,Mississippi,28,"Copiah County, MS",28029,172,71569,240.3,204.4,276.2,18.3
-,Mississippi,28,"Covington County, MS",28031,91,48147,189.0,152.2,232.1,19.8
+,Mississippi,28,"Covington County, MS",28031,91,48147,189,152.2,232.1,19.8
 ,Mississippi,28,"DeSoto County, MS",28033,481,451321,106.6,97.1,116.1,4.9
-,Mississippi,28,"Forrest County, MS",28035,287,183994,156.0,137.9,174,9.2
-,Mississippi,28,"Franklin County, MS",28037,32,19749,162.0,110.8,228.7,28.6
+,Mississippi,28,"Forrest County, MS",28035,287,183994,156,137.9,174,9.2
+,Mississippi,28,"Franklin County, MS",28037,32,19749,162,110.8,228.7,28.6
 ,Mississippi,28,"George County, MS",28039,86,58630,146.7,117.3,181.2,15.8
 ,Mississippi,28,"Greene County, MS",28041,55,39959,137.6,103.7,179.2,18.6
 ,Mississippi,28,"Grenada County, MS",28043,124,54504,227.5,187.5,267.6,20.4
@@ -1394,7 +1394,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Mississippi,28,"Scott County, MS",28123,146,71492,204.2,171.1,237.3,16.9
 ,Mississippi,28,"Sharkey County, MS",28125,39,11658,334.5,237.9,457.3,53.6
 ,Mississippi,28,"Simpson County, MS",28127,121,68960,175.5,144.2,206.7,16
-,Mississippi,28,"Smith County, MS",28129,66,40501,163.0,126,207.3,20.1
+,Mississippi,28,"Smith County, MS",28129,66,40501,163,126,207.3,20.1
 ,Mississippi,28,"Stone County, MS",28131,81,45742,177.1,140.6,220.1,19.7
 ,Mississippi,28,"Sunflower County, MS",28133,165,73605,224.2,190,258.4,17.5
 ,Mississippi,28,"Tallahatchie County, MS",28135,73,40425,180.6,141.5,227.1,21.1
@@ -1417,14 +1417,14 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Missouri,29,"Atchison County, MO",29005,21,13153,159.7,98.8,244.1,34.8
 ,Missouri,29,"Audrain County, MO",29007,82,66481,123.3,98.1,153.1,13.6
 ,Missouri,29,"Barry County, MO",29009,202,87767,230.2,198.4,261.9,16.2
-,Missouri,29,"Barton County, MO",29011,39,29319,133.0,94.6,181.8,21.3
-,Missouri,29,"Bates County, MO",29013,47,41214,114.0,83.8,151.6,16.6
+,Missouri,29,"Barton County, MO",29011,39,29319,133,94.6,181.8,21.3
+,Missouri,29,"Bates County, MO",29013,47,41214,114,83.8,151.6,16.6
 ,Missouri,29,"Benton County, MO",29015,90,45512,197.8,159,243.1,20.8
 ,Missouri,29,"Bollinger County, MO",29017,51,31909,159.8,119,210.1,22.4
 ,Missouri,29,"Boone County, MO",29019,285,418324,68.1,60.2,76,4
 ,Missouri,29,"Buchanan County, MO",29021,237,233760,101.4,88.5,114.3,6.6
 ,Missouri,29,"Butler County, MO",29023,176,108986,161.5,137.6,185.3,12.2
-,Missouri,29,"Caldwell County, MO",29025,21,22577,93.0,57.6,142.2,20.3
+,Missouri,29,"Caldwell County, MO",29025,21,22577,93,57.6,142.2,20.3
 ,Missouri,29,"Callaway County, MO",29027,131,118227,110.8,91.8,129.8,9.7
 ,Missouri,29,"Camden County, MO",29029,131,111311,117.7,97.5,137.8,10.3
 ,Missouri,29,"Cape Girardeau County, MO",29031,184,189148,97.3,83.2,111.3,7.2
@@ -1441,22 +1441,22 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Missouri,29,"Cooper County, MO",29053,78,45490,171.5,135.5,214,19.4
 ,Missouri,29,"Crawford County, MO",29055,106,62540,169.5,137.2,201.8,16.5
 ,Missouri,29,"Dade County, MO",29057,33,18864,174.9,120.4,245.7,30.5
-,Missouri,29,"Dallas County, MO",29059,66,41259,160.0,123.7,203.5,19.7
+,Missouri,29,"Dallas County, MO",29059,66,41259,160,123.7,203.5,19.7
 ,Missouri,29,"Daviess County, MO",29061,21,19559,107.4,66.5,164.1,23.4
 ,Missouri,29,"DeKalb County, MO",29063,38,37648,100.9,71.4,138.5,16.4
 ,Missouri,29,"Dent County, MO",29065,57,38682,147.4,111.6,190.9,19.5
 ,Missouri,29,"Douglas County, MO",29067,45,33414,134.7,98.2,180.2,20.1
 ,Missouri,29,"Dunklin County, MO",29069,183,76222,240.1,205.3,274.9,17.7
 ,Missouri,29,"Franklin County, MO",29071,289,268595,107.6,95.2,120,6.3
-,Missouri,29,"Gasconade County, MO",29073,31,37368,83.0,56.4,117.8,14.9
+,Missouri,29,"Gasconade County, MO",29073,31,37368,83,56.4,117.8,14.9
 ,Missouri,29,"Gentry County, MO",29075,21,16095,130.5,80.8,199.4,28.5
-,Missouri,29,"Greene County, MO",29077,759,709265,107.0,99.4,114.6,3.9
+,Missouri,29,"Greene County, MO",29077,759,709265,107,99.4,114.6,3.9
 ,Missouri,29,"Grundy County, MO",29079,38,23673,160.5,113.6,220.3,26
 ,Missouri,29,"Harrison County, MO",29081,29,20413,142.1,95.1,204,26.4
-,Missouri,29,"Henry County, MO",29083,106,54935,193.0,156.2,229.7,18.7
+,Missouri,29,"Henry County, MO",29083,106,54935,193,156.2,229.7,18.7
 ,Missouri,29,"Hickory County, MO",29085,35,21254,164.7,114.7,229,27.8
 ,Missouri,29,"Howard County, MO",29089,28,24591,113.9,75.7,164.6,21.5
-,Missouri,29,"Howell County, MO",29091,142,99281,143.0,119.5,166.6,12
+,Missouri,29,"Howell County, MO",29091,142,99281,143,119.5,166.6,12
 ,Missouri,29,"Iron County, MO",29093,81,26536,305.2,242.4,379.4,33.9
 ,Missouri,29,"Jackson County, MO",29095,2024,1833923,110.4,105.6,115.2,2.5
 ,Missouri,29,"Jasper County, MO",29097,465,299236,155.4,141.3,169.5,7.2
@@ -1465,7 +1465,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Missouri,29,"Knox County, MO",29103,16,9487,Unreliable,96.4,273.9,42.2
 ,Missouri,29,"Laclede County, MO",29105,115,89707,128.2,104.8,151.6,12
 ,Missouri,29,"Lafayette County, MO",29107,136,83091,163.7,136.2,191.2,14
-,Missouri,29,"Lawrence County, MO",29109,130,94170,138.0,114.3,161.8,12.1
+,Missouri,29,"Lawrence County, MO",29109,130,94170,138,114.3,161.8,12.1
 ,Missouri,29,"Lewis County, MO",29111,36,23981,150.1,105.1,207.8,25
 ,Missouri,29,"Lincoln County, MO",29113,174,143727,121.1,103.1,139.1,9.2
 ,Missouri,29,"Linn County, MO",29115,51,29895,170.6,127,224.3,23.9
@@ -1477,7 +1477,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Missouri,29,"Marion County, MO",29127,115,72728,158.1,129.2,187,14.7
 ,Missouri,29,"Mercer County, MO",29129,12,8873,Unreliable,69.9,236.2,39
 ,Missouri,29,"Miller County, MO",29131,93,63619,146.2,118,179.1,15.2
-,Missouri,29,"Mississippi County, MO",29133,74,37562,197.0,154.7,247.3,22.9
+,Missouri,29,"Mississippi County, MO",29133,74,37562,197,154.7,247.3,22.9
 ,Missouri,29,"Moniteau County, MO",29135,47,41397,113.5,83.4,151,16.6
 ,Missouri,29,"Monroe County, MO",29137,22,21498,102.3,64.1,154.9,21.8
 ,Missouri,29,"Montgomery County, MO",29139,47,29690,158.3,116.3,210.5,23.1
@@ -1495,7 +1495,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Missouri,29,"Pike County, MO",29163,79,48962,161.3,127.7,201.1,18.2
 ,Missouri,29,"Platte County, MO",29165,154,260384,59.1,49.8,68.5,4.8
 ,Missouri,29,"Polk County, MO",29167,84,72533,115.8,92.4,143.4,12.6
-,Missouri,29,"Pulaski County, MO",29169,128,124218,103.0,85.2,120.9,9.1
+,Missouri,29,"Pulaski County, MO",29169,128,124218,103,85.2,120.9,9.1
 ,Missouri,29,"Putnam County, MO",29171,16,11568,Unreliable,79.1,224.6,34.6
 ,Missouri,29,"Ralls County, MO",29173,23,26601,86.5,54.8,129.7,18
 ,Missouri,29,"Randolph County, MO",29175,72,66618,108.1,84.6,136.1,12.7
@@ -1513,17 +1513,17 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Missouri,29,"Shannon County, MO",29203,42,20942,200.6,144.5,271.1,30.9
 ,Missouri,29,"Shelby County, MO",29205,20,15057,132.8,81.1,205.1,29.7
 ,Missouri,29,"Stoddard County, MO",29207,162,75528,214.5,181.5,247.5,16.9
-,Missouri,29,"Stone County, MO",29209,110,76405,144.0,117.1,170.9,13.7
+,Missouri,29,"Stone County, MO",29209,110,76405,144,117.1,170.9,13.7
 ,Missouri,29,"Sullivan County, MO",29211,24,16277,147.4,94.5,219.4,30.1
 ,Missouri,29,"Taney County, MO",29213,221,131599,167.9,145.8,190.1,11.3
-,Missouri,29,"Texas County, MO",29215,93,65500,142.0,114.6,173.9,14.7
+,Missouri,29,"Texas County, MO",29215,93,65500,142,114.6,173.9,14.7
 ,Missouri,29,"Vernon County, MO",29217,67,51186,130.9,101.4,166.2,16
 ,Missouri,29,"Warren County, MO",29219,78,85984,90.7,71.7,113.2,10.3
 ,Missouri,29,"Washington County, MO",29221,164,67151,244.2,206.8,281.6,19.1
 ,Missouri,29,"Wayne County, MO",29223,46,33682,136.6,100,182.2,20.1
 ,Missouri,29,"Webster County, MO",29225,98,93470,104.8,85.1,127.8,10.6
 ,Missouri,29,"Wright County, MO",29229,91,44478,204.6,164.7,251.2,21.4
-,Missouri,29,"St. Louis city, MO",29510,1411,910402,155.0,146.9,163.1,4.1
+,Missouri,29,"St. Louis city, MO",29510,1411,910402,155,146.9,163.1,4.1
 ,Montana,30,"Beaverhead County, MT",30001,20,22320,89.6,54.7,138.4,20
 ,Montana,30,"Big Horn County, MT",30003,49,30092,162.8,120.5,215.3,23.3
 ,Montana,30,"Blaine County, MT",30005,19,15441,Unreliable,74.1,192.2,28.2
@@ -1539,7 +1539,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Montana,30,"Flathead County, MT",30029,200,252158,79.3,68.3,90.3,5.6
 ,Montana,30,"Gallatin County, MT",30031,122,255820,47.7,39.2,56.2,4.3
 ,Montana,30,"Glacier County, MT",30035,38,32824,115.8,81.9,158.9,18.8
-,Montana,30,"Hill County, MT",30041,50,40314,124.0,92.1,163.5,17.5
+,Montana,30,"Hill County, MT",30041,50,40314,124,92.1,163.5,17.5
 ,Montana,30,"Jefferson County, MT",30043,27,31300,86.3,56.8,125.5,16.6
 ,Montana,30,"Lake County, MT",30047,61,70378,86.7,66.3,111.3,11.1
 ,Montana,30,"Lewis and Clark County, MT",30049,130,176540,73.6,61,86.3,6.5
@@ -1588,7 +1588,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Nebraska,31,"Hall County, NE",31079,100,152983,65.4,52.6,78.2,6.5
 ,Nebraska,31,"Hamilton County, NE",31081,11,22784,Unreliable,24.1,86.4,14.6
 ,Nebraska,31,"Hitchcock County, NE",31087,15,6997,Unreliable,120,353.6,55.4
-,Nebraska,31,"Holt County, NE",31089,24,25000,96.0,61.5,142.8,19.6
+,Nebraska,31,"Holt County, NE",31089,24,25000,96,61.5,142.8,19.6
 ,Nebraska,31,"Howard County, NE",31093,10,15712,Unreliable,30.5,117,20.1
 ,Nebraska,31,"Jefferson County, NE",31095,12,18134,Unreliable,34.2,115.6,19.1
 ,Nebraska,31,"Johnson County, NE",31097,12,14331,Unreliable,43.3,146.3,24.2
@@ -1596,7 +1596,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Nebraska,31,"Knox County, NE",31107,15,19455,Unreliable,43.2,127.2,19.9
 ,Nebraska,31,"Lancaster County, NE",31109,433,748001,57.9,52.4,63.3,2.8
 ,Nebraska,31,"Lincoln County, NE",31111,58,90919,63.8,48.4,82.5,8.4
-,Nebraska,31,"Madison County, NE",31119,82,87249,94.0,74.7,116.7,10.4
+,Nebraska,31,"Madison County, NE",31119,82,87249,94,74.7,116.7,10.4
 ,Nebraska,31,"Merrick County, NE",31121,21,19502,107.7,66.7,164.6,23.5
 ,Nebraska,31,"Otoe County, NE",31131,31,39323,78.8,53.6,111.9,14.2
 ,Nebraska,31,"Phelps County, NE",31137,15,22301,Unreliable,37.6,110.9,17.4
@@ -1611,7 +1611,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Nebraska,31,"Seward County, NE",31159,27,39930,67.6,44.6,98.4,13
 ,Nebraska,31,"Thayer County, NE",31169,12,12020,Unreliable,51.6,174.4,28.8
 ,Nebraska,31,"Thurston County, NE",31173,20,14769,135.4,82.7,209.1,30.3
-,Nebraska,31,"Washington County, NE",31177,30,51746,58.0,39.1,82.8,10.6
+,Nebraska,31,"Washington County, NE",31177,30,51746,58,39.1,82.8,10.6
 ,Nebraska,31,"Webster County, NE",31181,12,8686,Unreliable,71.4,241.3,39.9
 ,Nebraska,31,"York County, NE",31185,39,33816,115.3,82,157.7,18.5
 ,Nevada,32,"Churchill County, NV",32001,77,60479,127.3,100.5,159.1,14.5
@@ -1627,10 +1627,10 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Nevada,32,"Pershing County, NV",32027,12,19838,Unreliable,31.3,105.7,17.5
 ,Nevada,32,"Washoe County, NV",32031,1228,1175354,104.5,98.6,110.3,3
 ,Nevada,32,"White Pine County, NV",32033,23,27427,83.9,53.2,125.8,17.5
-,Nevada,32,"Carson City, NV",32510,180,141701,127.0,108.5,145.6,9.5
+,Nevada,32,"Carson City, NV",32510,180,141701,127,108.5,145.6,9.5
 ,New Hampshire,33,"Belknap County, NH",33001,132,162237,81.4,67.5,95.2,7.1
 ,New Hampshire,33,"Carroll County, NH",33003,92,123890,74.3,59.9,91.1,7.7
-,New Hampshire,33,"Cheshire County, NH",33005,144,197347,73.0,61,84.9,6.1
+,New Hampshire,33,"Cheshire County, NH",33005,144,197347,73,61,84.9,6.1
 ,New Hampshire,33,"Coos County, NH",33007,109,85568,127.4,103.5,151.3,12.2
 ,New Hampshire,33,"Grafton County, NH",33009,161,229000,70.3,59.4,81.2,5.5
 ,New Hampshire,33,"Hillsborough County, NH",33011,673,1125660,59.8,55.3,64.3,2.3
@@ -1649,7 +1649,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,New Jersey,34,"Hudson County, NJ",34017,1163,1995891,58.3,54.9,61.6,1.7
 ,New Jersey,34,"Hunterdon County, NJ",34019,209,345944,60.4,52.2,68.6,4.2
 ,New Jersey,34,"Mercer County, NJ",34021,750,984432,76.2,70.7,81.6,2.8
-,New Jersey,34,"Middlesex County, NJ",34023,1369,2280425,60.0,56.9,63.2,1.6
+,New Jersey,34,"Middlesex County, NJ",34023,1369,2280425,60,56.9,63.2,1.6
 ,New Jersey,34,"Monmouth County, NJ",34025,1105,1688079,65.5,61.6,69.3,2
 ,New Jersey,34,"Morris County, NJ",34027,731,1351023,54.1,50.2,58,2
 ,New Jersey,34,"Ocean County, NJ",34029,1288,1380654,93.3,88.2,98.4,2.6
@@ -1684,7 +1684,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,New Mexico,35,"San Juan County, NM",35045,203,309174,65.7,56.6,74.7,4.6
 ,New Mexico,35,"San Miguel County, NM",35047,78,71779,108.7,85.9,135.6,12.3
 ,New Mexico,35,"Santa Fe County, NM",35049,231,393535,58.7,51.1,66.3,3.9
-,New Mexico,35,"Sierra County, NM",35051,58,25659,226.0,171.6,292.2,29.7
+,New Mexico,35,"Sierra County, NM",35051,58,25659,226,171.6,292.2,29.7
 ,New Mexico,35,"Socorro County, NM",35053,51,41826,121.9,90.8,160.3,17.1
 ,New Mexico,35,"Taos County, NM",35055,61,85473,71.4,54.6,91.7,9.1
 ,New Mexico,35,"Torrance County, NM",35057,63,40228,156.6,120.3,200.4,19.7
@@ -1697,7 +1697,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,New York,36,"Cayuga County, NY",36011,150,211698,70.9,59.5,82.2,5.8
 ,New York,36,"Chautauqua County, NY",36013,405,332814,121.7,109.8,133.5,6
 ,New York,36,"Chemung County, NY",36015,246,228712,107.6,94.1,121,6.9
-,New York,36,"Chenango County, NY",36017,144,127476,113.0,94.5,131.4,9.4
+,New York,36,"Chenango County, NY",36017,144,127476,113,94.5,131.4,9.4
 ,New York,36,"Clinton County, NY",36019,166,215000,77.2,65.5,89,6
 ,New York,36,"Columbia County, NY",36021,149,163510,91.1,76.5,105.8,7.5
 ,New York,36,"Cortland County, NY",36023,96,114807,83.6,67.7,102.1,8.5
@@ -1705,20 +1705,20 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,New York,36,"Dutchess County, NY",36027,569,784973,72.5,66.5,78.4,3
 ,New York,36,"Erie County, NY",36029,2457,2424925,101.3,97.3,105.3,2
 ,New York,36,"Essex County, NY",36031,94,104319,90.1,72.8,110.3,9.3
-,New York,36,"Franklin County, NY",36033,125,140494,89.0,73.4,104.6,8
+,New York,36,"Franklin County, NY",36033,125,140494,89,73.4,104.6,8
 ,New York,36,"Fulton County, NY",36035,157,144401,108.7,91.7,125.7,8.7
 ,New York,36,"Genesee County, NY",36037,135,156436,86.3,71.7,100.9,7.4
 ,New York,36,"Greene County, NY",36039,124,127362,97.4,80.2,114.5,8.7
 ,New York,36,"Hamilton County, NY",36041,15,12308,Unreliable,68.2,201,31.5
 ,New York,36,"Herkimer County, NY",36043,184,162432,113.3,96.9,129.6,8.4
-,New York,36,"Jefferson County, NY",36045,228,296201,77.0,67,87,5.1
+,New York,36,"Jefferson County, NY",36045,228,296201,77,67,87,5.1
 ,New York,36,"Kings County, NY",36047,5635,7190387,78.4,76.3,80.4,1
 ,New York,36,"Lewis County, NY",36049,60,69943,85.8,65.5,110.4,11.1
 ,New York,36,"Livingston County, NY",36051,135,161789,83.4,69.4,97.5,7.2
-,New York,36,"Madison County, NY",36053,137,182547,75.0,62.5,87.6,6.4
+,New York,36,"Madison County, NY",36053,137,182547,75,62.5,87.6,6.4
 ,New York,36,"Monroe County, NY",36055,1466,1956083,74.9,71.1,78.8,2
 ,New York,36,"Montgomery County, NY",36057,136,127653,106.5,88.6,124.4,9.1
-,New York,36,"Nassau County, NY",36059,2351,3563740,66.0,63.3,68.6,1.4
+,New York,36,"Nassau County, NY",36059,2351,3563740,66,63.3,68.6,1.4
 ,New York,36,"New York County, NY",36061,2397,5006761,47.9,46,49.8,1
 ,New York,36,"Niagara County, NY",36063,644,567488,113.5,104.7,122.2,4.5
 ,New York,36,"Oneida County, NY",36065,566,597111,94.8,87,102.6,4
@@ -1737,9 +1737,9 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,New York,36,"Saratoga County, NY",36091,352,614223,57.3,51.3,63.3,3.1
 ,New York,36,"Schenectady County, NY",36093,428,409390,104.5,94.6,114.5,5.1
 ,New York,36,"Schoharie County, NY",36095,81,81201,99.8,79.2,124,11.1
-,New York,36,"Schuyler County, NY",36097,43,48846,88.0,63.7,118.6,13.4
+,New York,36,"Schuyler County, NY",36097,43,48846,88,63.7,118.6,13.4
 ,New York,36,"Seneca County, NY",36099,69,93014,74.2,57.7,93.9,8.9
-,New York,36,"Steuben County, NY",36101,245,255250,96.0,84,108,6.1
+,New York,36,"Steuben County, NY",36101,245,255250,96,84,108,6.1
 ,New York,36,"Suffolk County, NY",36103,2626,3986714,65.9,63.3,68.4,1.3
 ,New York,36,"Sullivan County, NY",36105,248,201506,123.1,107.8,138.4,7.8
 ,New York,36,"Tioga County, NY",36107,120,130234,92.1,75.7,108.6,8.4
@@ -1749,11 +1749,11 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,New York,36,"Washington County, NY",36115,157,169870,92.4,78,106.9,7.4
 ,New York,36,"Wayne County, NY",36117,165,244467,67.5,57.2,77.8,5.3
 ,New York,36,"Westchester County, NY",36119,1492,2553580,58.4,55.5,61.4,1.5
-,New York,36,"Wyoming County, NY",36121,99,117903,84.0,68.2,102.2,8.4
+,New York,36,"Wyoming County, NY",36121,99,117903,84,68.2,102.2,8.4
 ,New York,36,"Yates County, NY",36123,43,59428,72.4,52.4,97.5,11
 ,North Carolina,37,"Alamance County, NC",37001,445,399038,111.5,101.2,121.9,5.3
 ,North Carolina,37,"Alexander County, NC",37003,95,97854,97.1,78.5,118.7,10
-,North Carolina,37,"Alleghany County, NC",37005,34,27422,124.0,85.9,173.3,21.3
+,North Carolina,37,"Alleghany County, NC",37005,34,27422,124,85.9,173.3,21.3
 ,North Carolina,37,"Anson County, NC",37007,118,70282,167.9,137.6,198.2,15.5
 ,North Carolina,37,"Ashe County, NC",37009,78,69531,112.2,88.7,140,12.7
 ,North Carolina,37,"Avery County, NC",37011,45,47661,94.4,68.9,126.3,14.1
@@ -1772,7 +1772,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,North Carolina,37,"Chatham County, NC",37037,161,171104,94.1,79.6,108.6,7.4
 ,North Carolina,37,"Cherokee County, NC",37039,96,67017,143.2,116,174.9,14.6
 ,North Carolina,37,"Chowan County, NC",37041,61,35980,169.5,129.7,217.8,21.7
-,North Carolina,37,"Clay County, NC",37043,23,25544,90.0,57.1,135.1,18.8
+,North Carolina,37,"Clay County, NC",37043,23,25544,90,57.1,135.1,18.8
 ,North Carolina,37,"Cleveland County, NC",37045,410,247424,165.7,149.7,181.7,8.2
 ,North Carolina,37,"Columbus County, NC",37047,348,146420,237.7,212.7,262.6,12.7
 ,North Carolina,37,"Craven County, NC",37049,302,247368,122.1,108.3,135.9,7
@@ -1782,26 +1782,26 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,North Carolina,37,"Davidson County, NC",37057,526,431696,121.8,111.4,132.3,5.3
 ,North Carolina,37,"Davie County, NC",37059,97,107195,90.5,73.4,110.4,9.2
 ,North Carolina,37,"Duplin County, NC",37061,203,150904,134.5,116,153,9.4
-,North Carolina,37,"Durham County, NC",37063,546,827606,66.0,60.4,71.5,2.8
+,North Carolina,37,"Durham County, NC",37063,546,827606,66,60.4,71.5,2.8
 ,North Carolina,37,"Edgecombe County, NC",37065,277,139100,199.1,175.7,222.6,12
 ,North Carolina,37,"Forsyth County, NC",37067,810,947133,85.5,79.6,91.4,3
-,North Carolina,37,"Franklin County, NC",37069,196,167548,117.0,100.6,133.4,8.4
+,North Carolina,37,"Franklin County, NC",37069,196,167548,117,100.6,133.4,8.4
 ,North Carolina,37,"Gaston County, NC",37071,736,563928,130.5,121.1,139.9,4.8
 ,North Carolina,37,"Gates County, NC",37073,39,30726,126.9,90.3,173.5,20.3
 ,North Carolina,37,"Graham County, NC",37075,31,21335,145.3,98.7,206.2,26.1
 ,North Carolina,37,"Granville County, NC",37077,140,160775,87.1,72.7,101.5,7.4
 ,North Carolina,37,"Greene County, NC",37079,71,58625,121.1,94.6,152.8,14.4
 ,North Carolina,37,"Guilford County, NC",37081,1174,1341679,87.5,82.5,92.5,2.6
-,North Carolina,37,"Halifax County, NC",37083,196,135126,145.0,124.7,165.4,10.4
+,North Carolina,37,"Halifax County, NC",37083,196,135126,145,124.7,165.4,10.4
 ,North Carolina,37,"Harnett County, NC",37085,332,329152,100.9,90,111.7,5.5
-,North Carolina,37,"Haywood County, NC",37087,226,151662,149.0,129.6,168.4,9.9
+,North Carolina,37,"Haywood County, NC",37087,226,151662,149,129.6,168.4,9.9
 ,North Carolina,37,"Henderson County, NC",37089,255,274418,92.9,81.5,104.3,5.8
 ,North Carolina,37,"Hertford County, NC",37091,78,62486,124.8,98.7,155.8,14.1
 ,North Carolina,37,"Hoke County, NC",37093,143,140452,101.8,85.1,118.5,8.5
 ,North Carolina,37,"Hyde County, NC",37095,15,16228,Unreliable,51.7,152.5,23.9
 ,North Carolina,37,"Iredell County, NC",37097,428,444201,96.4,87.2,105.5,4.7
 ,North Carolina,37,"Jackson County, NC",37099,93,95590,97.3,78.5,119.2,10.1
-,North Carolina,37,"Johnston County, NC",37101,481,485886,99.0,90.1,107.8,4.5
+,North Carolina,37,"Johnston County, NC",37101,481,485886,99,90.1,107.8,4.5
 ,North Carolina,37,"Jones County, NC",37103,38,25815,147.2,104.2,202,23.9
 ,North Carolina,37,"Lee County, NC",37105,158,152599,103.5,87.4,119.7,8.2
 ,North Carolina,37,"Lenoir County, NC",37107,252,147636,170.7,149.6,191.8,10.8
@@ -1809,9 +1809,9 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,North Carolina,37,"McDowell County, NC",37111,143,119315,119.9,100.2,139.5,10
 ,North Carolina,37,"Macon County, NC",37113,111,81189,136.7,111.3,162.2,13
 ,North Carolina,37,"Madison County, NC",37115,47,53177,88.4,64.9,117.5,12.9
-,North Carolina,37,"Martin County, NC",37117,105,59656,176.0,142.3,209.7,17.2
+,North Carolina,37,"Martin County, NC",37117,105,59656,176,142.3,209.7,17.2
 ,North Carolina,37,"Mecklenburg County, NC",37119,1768,2836671,62.3,59.4,65.2,1.5
-,North Carolina,37,"Mitchell County, NC",37121,53,38961,136.0,101.9,177.9,18.7
+,North Carolina,37,"Mitchell County, NC",37121,53,38961,136,101.9,177.9,18.7
 ,North Carolina,37,"Montgomery County, NC",37123,94,68979,136.3,110.1,166.8,14.1
 ,North Carolina,37,"Moore County, NC",37125,226,224610,100.6,87.5,113.7,6.7
 ,North Carolina,37,"Nash County, NC",37127,328,245549,133.6,119.1,148,7.4
@@ -1825,7 +1825,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,North Carolina,37,"Perquimans County, NC",37143,49,33246,147.4,109,194.9,21.1
 ,North Carolina,37,"Person County, NC",37145,109,103391,105.4,85.6,125.2,10.1
 ,North Carolina,37,"Pitt County, NC",37147,424,422125,100.4,90.9,110,4.9
-,North Carolina,37,"Polk County, NC",37149,58,49136,118.0,89.6,152.6,15.5
+,North Carolina,37,"Polk County, NC",37149,58,49136,118,89.6,152.6,15.5
 ,North Carolina,37,"Randolph County, NC",37151,466,372377,125.1,113.8,136.5,5.8
 ,North Carolina,37,"Richmond County, NC",37153,214,116433,183.8,159.2,208.4,12.6
 ,North Carolina,37,"Robeson County, NC",37155,569,337041,168.8,155,182.7,7.1
@@ -1835,17 +1835,17 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,North Carolina,37,"Sampson County, NC",37163,196,161566,121.3,104.3,138.3,8.7
 ,North Carolina,37,"Scotland County, NC",37165,149,89998,165.6,139,192.1,13.6
 ,North Carolina,37,"Stanly County, NC",37167,185,156610,118.1,101.1,135.2,8.7
-,North Carolina,37,"Stokes County, NC",37169,139,122967,113.0,94.2,131.8,9.6
+,North Carolina,37,"Stokes County, NC",37169,139,122967,113,94.2,131.8,9.6
 ,North Carolina,37,"Surry County, NC",37171,213,185481,114.8,99.4,130.3,7.9
 ,North Carolina,37,"Swain County, NC",37173,64,35420,180.7,139.2,230.7,22.6
-,North Carolina,37,"Transylvania County, NC",37175,85,77245,110.0,87.9,136.1,11.9
+,North Carolina,37,"Transylvania County, NC",37175,85,77245,110,87.9,136.1,11.9
 ,North Carolina,37,"Tyrrell County, NC",37177,16,11319,Unreliable,80.8,229.6,35.3
 ,North Carolina,37,"Union County, NC",37179,403,561915,71.7,64.7,78.7,3.6
 ,North Carolina,37,"Vance County, NC",37181,186,111614,166.6,142.7,190.6,12.2
 ,North Carolina,37,"Wake County, NC",37183,1391,2777112,50.1,47.5,52.7,1.3
 ,North Carolina,37,"Warren County, NC",37185,81,52052,155.6,123.6,193.4,17.3
 ,North Carolina,37,"Washington County, NC",37187,55,30824,178.4,134.4,232.3,24.1
-,North Carolina,37,"Watauga County, NC",37189,75,111948,67.0,52.7,84,7.7
+,North Carolina,37,"Watauga County, NC",37189,75,111948,67,52.7,84,7.7
 ,North Carolina,37,"Wayne County, NC",37191,404,317692,127.2,114.8,139.6,6.3
 ,North Carolina,37,"Wilkes County, NC",37193,225,177239,126.9,110.4,143.5,8.5
 ,North Carolina,37,"Wilson County, NC",37195,263,208529,126.1,110.9,141.4,7.8
@@ -1870,9 +1870,9 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,North Dakota,38,"Ramsey County, ND",38071,32,28808,111.1,76,156.8,19.6
 ,North Dakota,38,"Ransom County, ND",38073,15,13462,Unreliable,62.4,183.8,28.8
 ,North Dakota,38,"Richland County, ND",38077,33,39329,83.9,57.8,117.8,14.6
-,North Dakota,38,"Rolette County, ND",38079,59,33707,175.0,133.2,225.8,22.8
+,North Dakota,38,"Rolette County, ND",38079,59,33707,175,133.2,225.8,22.8
 ,North Dakota,38,"Sargent County, ND",38081,13,9948,Unreliable,69.6,223.5,36.2
-,North Dakota,38,"Sioux County, ND",38085,42,9745,431.0,310.6,582.6,66.5
+,North Dakota,38,"Sioux County, ND",38085,42,9745,431,310.6,582.6,66.5
 ,North Dakota,38,"Stark County, ND",38089,53,77220,68.6,51.4,89.8,9.4
 ,North Dakota,38,"Stutsman County, ND",38093,36,54248,66.4,46.5,91.9,11.1
 ,North Dakota,38,"Traill County, ND",38097,15,19743,Unreliable,42.5,125.3,19.6
@@ -1884,7 +1884,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Ohio,39,"Ashland County, OH",39005,151,130696,115.5,97.1,134,9.4
 ,Ohio,39,"Ashtabula County, OH",39007,350,259083,135.1,120.9,149.2,7.2
 ,Ohio,39,"Athens County, OH",39009,176,141120,124.7,106.3,143.1,9.4
-,Ohio,39,"Auglaize County, OH",39011,92,116417,79.0,63.7,96.9,8.2
+,Ohio,39,"Auglaize County, OH",39011,92,116417,79,63.7,96.9,8.2
 ,Ohio,39,"Belmont County, OH",39013,226,186490,121.2,105.4,137,8.1
 ,Ohio,39,"Brown County, OH",39015,164,114947,142.7,120.8,164.5,11.1
 ,Ohio,39,"Butler County, OH",39017,866,947028,91.4,85.4,97.5,3.1
@@ -1892,7 +1892,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Ohio,39,"Champaign County, OH",39021,102,100834,101.2,81.5,120.8,10
 ,Ohio,39,"Clark County, OH",39023,521,343476,151.7,138.7,164.7,6.6
 ,Ohio,39,"Clermont County, OH",39025,565,542195,104.2,95.6,112.8,4.4
-,Ohio,39,"Clinton County, OH",39027,140,107660,130.0,108.5,151.6,11
+,Ohio,39,"Clinton County, OH",39027,140,107660,130,108.5,151.6,11
 ,Ohio,39,"Columbiana County, OH",39029,396,280565,141.1,127.2,155,7.1
 ,Ohio,39,"Coshocton County, OH",39031,119,93527,127.2,104.4,150.1,11.7
 ,Ohio,39,"Crawford County, OH",39033,145,107642,134.7,112.8,156.6,11.2
@@ -1915,15 +1915,15 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Ohio,39,"Harrison County, OH",39067,64,40458,158.2,121.8,202,19.8
 ,Ohio,39,"Henry County, OH",39069,60,70951,84.6,64.5,108.9,10.9
 ,Ohio,39,"Highland County, OH",39071,141,109638,128.6,107.4,149.8,10.8
-,Ohio,39,"Hocking County, OH",39073,107,74844,143.0,115.9,170.1,13.8
+,Ohio,39,"Hocking County, OH",39073,107,74844,143,115.9,170.1,13.8
 ,Ohio,39,"Holmes County, OH",39075,55,97506,56.4,42.5,73.4,7.6
-,Ohio,39,"Huron County, OH",39077,175,150909,116.0,98.8,133.1,8.8
+,Ohio,39,"Huron County, OH",39077,175,150909,116,98.8,133.1,8.8
 ,Ohio,39,"Jackson County, OH",39079,161,85513,188.3,159.2,217.4,14.8
 ,Ohio,39,"Jefferson County, OH",39081,333,173168,192.3,171.6,213,10.5
 ,Ohio,39,"Knox County, OH",39083,161,148522,108.4,91.7,125.1,8.5
 ,Ohio,39,"Lake County, OH",39085,616,611135,100.8,92.8,108.8,4.1
 ,Ohio,39,"Lawrence County, OH",39087,263,161680,162.7,143,182.3,10
-,Ohio,39,"Licking County, OH",39089,429,442219,97.0,87.8,106.2,4.7
+,Ohio,39,"Licking County, OH",39089,429,442219,97,87.8,106.2,4.7
 ,Ohio,39,"Logan County, OH",39091,128,117298,109.1,90.2,128,9.6
 ,Ohio,39,"Lorain County, OH",39093,738,791879,93.2,86.5,99.9,3.4
 ,Ohio,39,"Lucas County, OH",39095,1565,1135384,137.8,131,144.7,3.5
@@ -1942,15 +1942,15 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Ohio,39,"Noble County, OH",39121,47,37113,126.6,93.1,168.4,18.5
 ,Ohio,39,"Ottawa County, OH",39123,124,105925,117.1,96.5,137.7,10.5
 ,Ohio,39,"Paulding County, OH",39125,46,49067,93.7,68.6,125,13.8
-,Ohio,39,"Perry County, OH",39127,124,94635,131.0,108,154.1,11.8
+,Ohio,39,"Perry County, OH",39127,124,94635,131,108,154.1,11.8
 ,Ohio,39,"Pickaway County, OH",39129,182,153726,118.4,101.2,135.6,8.8
 ,Ohio,39,"Pike County, OH",39131,107,73337,145.9,118.3,173.5,14.1
 ,Ohio,39,"Portage County, OH",39133,386,400127,96.5,86.8,106.1,4.9
 ,Ohio,39,"Preble County, OH",39135,129,108002,119.4,98.8,140.1,10.5
-,Ohio,39,"Putnam County, OH",39137,62,86095,72.0,55.2,92.3,9.1
+,Ohio,39,"Putnam County, OH",39137,62,86095,72,55.2,92.3,9.1
 ,Ohio,39,"Richland County, OH",39139,406,314419,129.1,116.6,141.7,6.4
 ,Ohio,39,"Ross County, OH",39141,244,213314,114.4,100,128.7,7.3
-,Ohio,39,"Sandusky County, OH",39143,151,155599,97.0,81.6,112.5,7.9
+,Ohio,39,"Sandusky County, OH",39143,151,155599,97,81.6,112.5,7.9
 ,Ohio,39,"Scioto County, OH",39145,309,200813,153.9,136.7,171,8.8
 ,Ohio,39,"Seneca County, OH",39147,166,140413,118.2,100.2,136.2,9.2
 ,Ohio,39,"Shelby County, OH",39149,114,124905,91.3,74.5,108,8.5
@@ -1961,7 +1961,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Ohio,39,"Union County, OH",39159,87,148604,58.5,46.9,72.2,6.3
 ,Ohio,39,"Van Wert County, OH",39161,87,71780,121.2,97.1,149.5,13
 ,Ohio,39,"Vinton County, OH",39163,60,35002,171.4,130.8,220.7,22.1
-,Ohio,39,"Warren County, OH",39165,398,594218,67.0,60.4,73.6,3.4
+,Ohio,39,"Warren County, OH",39165,398,594218,67,60.4,73.6,3.4
 ,Ohio,39,"Washington County, OH",39167,182,157799,115.3,98.6,132.1,8.5
 ,Ohio,39,"Wayne County, OH",39169,239,284292,84.1,73.4,94.7,5.4
 ,Ohio,39,"Williams County, OH",39171,88,96115,91.6,73.4,112.8,9.8
@@ -1973,9 +1973,9 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Oklahoma,40,"Beaver County, OK",40007,14,13564,Unreliable,56.4,173.2,27.6
 ,Oklahoma,40,"Beckham County, OK",40009,91,61527,147.9,119.1,181.6,15.5
 ,Oklahoma,40,"Blaine County, OK",40011,32,23327,137.2,93.8,193.7,24.3
-,Oklahoma,40,"Bryan County, OK",40013,172,109547,157.0,133.5,180.5,12
+,Oklahoma,40,"Bryan County, OK",40013,172,109547,157,133.5,180.5,12
 ,Oklahoma,40,"Caddo County, OK",40015,151,74555,202.5,170.2,234.8,16.5
-,Oklahoma,40,"Canadian County, OK",40017,289,348169,83.0,73.4,92.6,4.9
+,Oklahoma,40,"Canadian County, OK",40017,289,348169,83,73.4,92.6,4.9
 ,Oklahoma,40,"Carter County, OK",40019,205,123182,166.4,143.6,189.2,11.6
 ,Oklahoma,40,"Cherokee County, OK",40021,194,112677,172.2,147.9,196.4,12.4
 ,Oklahoma,40,"Choctaw County, OK",40023,94,36653,256.5,207.2,313.8,26.5
@@ -1995,15 +1995,15 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Oklahoma,40,"Grant County, OK",40053,12,10985,Unreliable,56.4,190.8,31.5
 ,Oklahoma,40,"Greer County, OK",40055,19,16499,Unreliable,69.3,179.8,26.4
 ,Oklahoma,40,"Haskell County, OK",40061,71,31024,228.9,178.7,288.7,27.2
-,Oklahoma,40,"Hughes County, OK",40063,96,35161,273.0,221.2,333.4,27.9
+,Oklahoma,40,"Hughes County, OK",40063,96,35161,273,221.2,333.4,27.9
 ,Oklahoma,40,"Jackson County, OK",40065,99,64310,153.9,125.1,187.4,15.5
 ,Oklahoma,40,"Jefferson County, OK",40067,28,15543,180.1,119.7,260.4,34
 ,Oklahoma,40,"Johnston County, OK",40069,52,27019,192.5,143.7,252.4,26.7
 ,Oklahoma,40,"Kay County, OK",40071,180,108683,165.6,141.4,189.8,12.3
-,Oklahoma,40,"Kingfisher County, OK",40073,53,38417,138.0,103.3,180.5,19
+,Oklahoma,40,"Kingfisher County, OK",40073,53,38417,138,103.3,180.5,19
 ,Oklahoma,40,"Kiowa County, OK",40075,45,23019,195.5,142.6,261.6,29.1
 ,Oklahoma,40,"Latimer County, OK",40077,45,25366,177.4,129.4,237.4,26.4
-,Oklahoma,40,"Le Flore County, OK",40079,206,125646,164.0,141.6,186.3,11.4
+,Oklahoma,40,"Le Flore County, OK",40079,206,125646,164,141.6,186.3,11.4
 ,Oklahoma,40,"Lincoln County, OK",40081,165,87622,188.3,159.6,217,14.7
 ,Oklahoma,40,"Logan County, OK",40083,133,113896,116.8,96.9,136.6,10.1
 ,Oklahoma,40,"Love County, OK",40085,35,23893,146.5,102,203.7,24.8
@@ -2018,11 +2018,11 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Oklahoma,40,"Noble County, OK",40103,45,29072,154.8,112.9,207.1,23.1
 ,Oklahoma,40,"Nowata County, OK",40105,44,26306,167.3,121.5,224.5,25.2
 ,Oklahoma,40,"Okfuskee County, OK",40107,78,31393,248.5,196.4,310.1,28.1
-,Oklahoma,40,"Oklahoma County, OK",40109,2778,1999163,139.0,133.8,144.1,2.6
-,Oklahoma,40,"Okmulgee County, OK",40111,214,95979,223.0,193.1,252.8,15.2
+,Oklahoma,40,"Oklahoma County, OK",40109,2778,1999163,139,133.8,144.1,2.6
+,Oklahoma,40,"Okmulgee County, OK",40111,214,95979,223,193.1,252.8,15.2
 ,Oklahoma,40,"Osage County, OK",40113,197,121957,161.5,139,184.1,11.5
 ,Oklahoma,40,"Ottawa County, OK",40115,157,75626,207.6,175.1,240.1,16.6
-,Oklahoma,40,"Pawnee County, OK",40117,79,41358,191.0,151.2,238.1,21.5
+,Oklahoma,40,"Pawnee County, OK",40117,79,41358,191,151.2,238.1,21.5
 ,Oklahoma,40,"Payne County, OK",40119,186,167271,111.2,95.2,127.2,8.2
 ,Oklahoma,40,"Pittsburg County, OK",40121,222,115129,192.8,167.5,218.2,12.9
 ,Oklahoma,40,"Pontotoc County, OK",40123,158,92728,170.4,143.8,197,13.6
@@ -2038,7 +2038,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Oklahoma,40,"Tulsa County, OK",40143,2196,1643702,133.6,128,139.2,2.9
 ,Oklahoma,40,"Wagoner County, OK",40145,219,199335,109.9,95.3,124.4,7.4
 ,Oklahoma,40,"Washington County, OK",40147,192,128415,149.5,128.4,170.7,10.8
-,Oklahoma,40,"Washita County, OK",40149,40,28993,138.0,98.6,187.9,21.8
+,Oklahoma,40,"Washita County, OK",40149,40,28993,138,98.6,187.9,21.8
 ,Oklahoma,40,"Woods County, OK",40151,26,21096,123.2,80.5,180.6,24.2
 ,Oklahoma,40,"Woodward County, OK",40153,64,54925,116.5,89.7,148.8,14.6
 ,Oregon,41,"Baker County, OR",41001,30,39307,76.3,51.5,109,13.9
@@ -2066,7 +2066,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Oregon,41,"Marion County, OR",41047,526,826364,63.7,58.2,69.1,2.8
 ,Oregon,41,"Morrow County, OR",41049,26,27516,94.5,61.7,138.5,18.5
 ,Oregon,41,"Multnomah County, OR",41051,1390,2326457,59.7,56.6,62.9,1.6
-,Oregon,41,"Polk County, OR",41053,120,184474,65.0,53.4,76.7,5.9
+,Oregon,41,"Polk County, OR",41053,120,184474,65,53.4,76.7,5.9
 ,Oregon,41,"Tillamook County, OR",41057,62,64777,95.7,73.4,122.7,12.2
 ,Oregon,41,"Umatilla County, OR",41059,148,194116,76.2,64,88.5,6.3
 ,Oregon,41,"Union County, OR",41061,45,60887,73.9,53.9,98.9,11
@@ -2091,8 +2091,8 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Pennsylvania,42,"Chester County, PA",42029,725,1352741,53.6,49.7,57.5,2
 ,Pennsylvania,42,"Clarion County, PA",42031,108,95426,113.2,91.8,134.5,10.9
 ,Pennsylvania,42,"Clearfield County, PA",42033,181,219523,82.5,70.4,94.5,6.1
-,Pennsylvania,42,"Clinton County, PA",42035,88,92680,95.0,76.2,117,10.1
-,Pennsylvania,42,"Columbia County, PA",42037,201,160771,125.0,107.7,142.3,8.8
+,Pennsylvania,42,"Clinton County, PA",42035,88,92680,95,76.2,117,10.1
+,Pennsylvania,42,"Columbia County, PA",42037,201,160771,125,107.7,142.3,8.8
 ,Pennsylvania,42,"Crawford County, PA",42039,263,220724,119.2,104.8,133.6,7.3
 ,Pennsylvania,42,"Cumberland County, PA",42041,450,640468,70.3,63.8,76.8,3.3
 ,Pennsylvania,42,"Dauphin County, PA",42043,725,730887,99.2,92,106.4,3.7
@@ -2107,11 +2107,11 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Pennsylvania,42,"Huntingdon County, PA",42061,101,120800,83.6,67.3,99.9,8.3
 ,Pennsylvania,42,"Indiana County, PA",42063,201,206530,97.3,83.9,110.8,6.9
 ,Pennsylvania,42,"Jefferson County, PA",42065,108,114614,94.2,76.5,112,9.1
-,Pennsylvania,42,"Juniata County, PA",42067,45,62511,72.0,52.5,96.3,10.7
+,Pennsylvania,42,"Juniata County, PA",42067,45,62511,72,52.5,96.3,10.7
 ,Pennsylvania,42,"Lackawanna County, PA",42069,617,548452,112.5,103.6,121.4,4.5
 ,Pennsylvania,42,"Lancaster County, PA",42071,903,1335381,67.6,63.2,72,2.3
 ,Pennsylvania,42,"Lawrence County, PA",42073,268,226804,118.2,104,132.3,7.2
-,Pennsylvania,42,"Lebanon County, PA",42075,330,343680,96.0,85.7,106.4,5.3
+,Pennsylvania,42,"Lebanon County, PA",42075,330,343680,96,85.7,106.4,5.3
 ,Pennsylvania,42,"Lehigh County, PA",42077,658,935084,70.4,65,75.7,2.7
 ,Pennsylvania,42,"Luzerne County, PA",42079,686,832736,82.4,76.2,88.5,3.1
 ,Pennsylvania,42,"Lycoming County, PA",42081,224,301876,74.2,64.5,83.9,5
@@ -2121,9 +2121,9 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Pennsylvania,42,"Monroe County, PA",42089,374,440908,84.8,76.2,93.4,4.4
 ,Pennsylvania,42,"Montgomery County, PA",42091,1347,2185074,61.6,58.4,64.9,1.7
 ,Pennsylvania,42,"Montour County, PA",42093,29,48667,59.6,39.9,85.6,11.1
-,Pennsylvania,42,"Northampton County, PA",42095,562,781036,72.0,66,77.9,3
+,Pennsylvania,42,"Northampton County, PA",42095,562,781036,72,66,77.9,3
 ,Pennsylvania,42,"Northumberland County, PA",42097,313,247430,126.5,112.5,140.5,7.2
-,Pennsylvania,42,"Perry County, PA",42099,125,123810,101.0,83.3,118.7,9
+,Pennsylvania,42,"Perry County, PA",42099,125,123810,101,83.3,118.7,9
 ,Pennsylvania,42,"Philadelphia County, PA",42101,5431,4196502,129.4,126,132.9,1.8
 ,Pennsylvania,42,"Pike County, PA",42103,116,145726,79.6,65.1,94.1,7.4
 ,Pennsylvania,42,"Potter County, PA",42105,39,42918,90.9,64.6,124.2,14.6
@@ -2131,19 +2131,19 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Pennsylvania,42,"Snyder County, PA",42109,98,99436,98.6,80,120.1,10
 ,Pennsylvania,42,"Somerset County, PA",42111,231,204578,112.9,98.4,127.5,7.4
 ,Pennsylvania,42,"Sullivan County, PA",42113,21,16055,130.8,81,199.9,28.5
-,Pennsylvania,42,"Susquehanna County, PA",42115,95,110413,86.0,69.6,105.2,8.8
+,Pennsylvania,42,"Susquehanna County, PA",42115,95,110413,86,69.6,105.2,8.8
 ,Pennsylvania,42,"Tioga County, PA",42117,121,105018,115.2,94.7,135.7,10.5
-,Pennsylvania,42,"Union County, PA",42119,64,118566,54.0,41.6,68.9,6.7
+,Pennsylvania,42,"Union County, PA",42119,64,118566,54,41.6,68.9,6.7
 ,Pennsylvania,42,"Venango County, PA",42121,166,140141,118.5,100.4,136.5,9.2
 ,Pennsylvania,42,"Warren County, PA",42123,130,106344,122.2,101.2,143.3,10.7
 ,Pennsylvania,42,"Washington County, PA",42125,458,546593,83.8,76.1,91.5,3.9
 ,Pennsylvania,42,"Wayne County, PA",42127,140,139621,100.3,83.7,116.9,8.5
 ,Pennsylvania,42,"Westmoreland County, PA",42129,924,946194,97.7,91.4,104,3.2
 ,Pennsylvania,42,"Wyoming County, PA",42131,60,72836,82.4,62.9,106,10.6
-,Pennsylvania,42,"York County, PA",42133,975,1174661,83.0,77.8,88.2,2.7
+,Pennsylvania,42,"York County, PA",42133,975,1174661,83,77.8,88.2,2.7
 ,Rhode Island,44,"Bristol County, RI",44001,70,124828,56.1,43.7,70.9,6.7
 ,Rhode Island,44,"Kent County, RI",44003,364,458904,79.3,71.2,87.5,4.2
-,Rhode Island,44,"Newport County, RI",44005,122,217747,56.0,46.1,66,5.1
+,Rhode Island,44,"Newport County, RI",44005,122,217747,56,46.1,66,5.1
 ,Rhode Island,44,"Providence County, RI",44007,1246,1677265,74.3,70.2,78.4,2.1
 ,Rhode Island,44,"Washington County, RI",44009,200,311789,64.1,55.3,73,4.5
 ,South Carolina,45,"Abbeville County, SC",45001,101,61559,164.1,132.1,196.1,16.3
@@ -2173,7 +2173,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,South Carolina,45,"Hampton County, SC",45049,83,53615,154.8,123.3,191.9,17
 ,South Carolina,45,"Horry County, SC",45051,1139,779719,146.1,137.6,154.6,4.3
 ,South Carolina,45,"Jasper County, SC",45053,97,71545,135.6,109.9,165.4,13.8
-,South Carolina,45,"Kershaw County, SC",45055,224,164663,136.0,118.2,153.9,9.1
+,South Carolina,45,"Kershaw County, SC",45055,224,164663,136,118.2,153.9,9.1
 ,South Carolina,45,"Lancaster County, SC",45057,329,216818,151.7,135.3,168.1,8.4
 ,South Carolina,45,"Laurens County, SC",45059,262,169702,154.4,135.7,173.1,9.5
 ,South Carolina,45,"Lee County, SC",45061,104,48045,216.5,174.9,258.1,21.2
@@ -2181,24 +2181,24 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,South Carolina,45,"McCormick County, SC",45065,45,25204,178.5,130.2,238.9,26.6
 ,South Carolina,45,"Marion County, SC",45067,215,80900,265.8,230.2,301.3,18.1
 ,South Carolina,45,"Marlboro County, SC",45069,210,76870,273.2,236.2,310.1,18.9
-,South Carolina,45,"Newberry County, SC",45071,173,94532,183.0,155.7,210.3,13.9
+,South Carolina,45,"Newberry County, SC",45071,173,94532,183,155.7,210.3,13.9
 ,South Carolina,45,"Oconee County, SC",45073,256,189223,135.3,118.7,151.9,8.5
-,South Carolina,45,"Orangeburg County, SC",45075,414,220190,188.0,169.9,206.1,9.2
-,South Carolina,45,"Pickens County, SC",45077,386,283900,136.0,122.4,149.5,6.9
+,South Carolina,45,"Orangeburg County, SC",45075,414,220190,188,169.9,206.1,9.2
+,South Carolina,45,"Pickens County, SC",45077,386,283900,136,122.4,149.5,6.9
 ,South Carolina,45,"Richland County, SC",45079,1144,1025448,111.6,105.1,118,3.3
 ,South Carolina,45,"Saluda County, SC",45081,79,51451,153.5,121.6,191.4,17.3
 ,South Carolina,45,"Spartanburg County, SC",45083,1119,759083,147.4,138.8,156.1,4.4
 ,South Carolina,45,"Sumter County, SC",45085,424,269255,157.5,142.5,172.5,7.6
-,South Carolina,45,"Union County, SC",45087,192,72177,266.0,228.4,303.6,19.2
+,South Carolina,45,"Union County, SC",45087,192,72177,266,228.4,303.6,19.2
 ,South Carolina,45,"Williamsburg County, SC",45089,179,84785,211.1,180.2,242.1,15.8
 ,South Carolina,45,"York County, SC",45091,633,655305,96.6,89.1,104.1,3.8
 ,South Dakota,46,"Beadle County, SD",46005,39,44604,87.4,62.2,119.5,14
 ,South Dakota,46,"Brookings County, SD",46011,27,70021,38.6,25.4,56.1,7.4
-,South Dakota,46,"Brown County, SD",46013,60,96741,62.0,47.3,79.8,8
+,South Dakota,46,"Brown County, SD",46013,60,96741,62,47.3,79.8,8
 ,South Dakota,46,"Brule County, SD",46015,12,13106,Unreliable,47.3,159.9,26.4
 ,South Dakota,46,"Buffalo County, SD",46017,10,4370,Unreliable,109.7,420.8,72.4
 ,South Dakota,46,"Butte County, SD",46019,19,25619,Unreliable,44.7,115.8,17
-,South Dakota,46,"Charles Mix County, SD",46023,30,20553,146.0,98.5,208.4,26.6
+,South Dakota,46,"Charles Mix County, SD",46023,30,20553,146,98.5,208.4,26.6
 ,South Dakota,46,"Clay County, SD",46027,25,28137,88.9,57.5,131.2,17.8
 ,South Dakota,46,"Codington County, SD",46029,55,71009,77.5,58.3,100.8,10.4
 ,South Dakota,46,"Corson County, SD",46031,28,9443,296.5,197,428.5,56
@@ -2207,7 +2207,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,South Dakota,46,"Day County, SD",46037,12,13189,Unreliable,47,158.9,26.3
 ,South Dakota,46,"Dewey County, SD",46041,20,12636,158.3,96.7,244.4,35.4
 ,South Dakota,46,"Fall River County, SD",46047,25,17148,145.8,94.3,215.2,29.2
-,South Dakota,46,"Grant County, SD",46051,20,18019,111.0,67.8,171.4,24.8
+,South Dakota,46,"Grant County, SD",46051,20,18019,111,67.8,171.4,24.8
 ,South Dakota,46,"Gregory County, SD",46053,10,9801,Unreliable,48.9,187.6,32.3
 ,South Dakota,46,"Hamlin County, SD",46057,10,13164,Unreliable,36.4,139.7,24
 ,South Dakota,46,"Hughes County, SD",46065,34,47073,72.2,50,100.9,12.4
@@ -2237,14 +2237,14 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Tennessee,47,"Blount County, TN",47009,296,330381,89.6,79.4,99.8,5.2
 ,Tennessee,47,"Bradley County, TN",47011,407,266353,152.8,138,167.7,7.6
 ,Tennessee,47,"Campbell County, TN",47013,240,103811,231.2,201.9,260.4,14.9
-,Tennessee,47,"Cannon County, TN",47015,61,36747,166.0,127,213.2,21.3
+,Tennessee,47,"Cannon County, TN",47015,61,36747,166,127,213.2,21.3
 ,Tennessee,47,"Carroll County, TN",47017,177,69005,256.5,218.7,294.3,19.3
 ,Tennessee,47,"Carter County, TN",47019,203,150092,135.3,116.6,153.9,9.5
 ,Tennessee,47,"Cheatham County, TN",47021,140,109491,127.9,106.7,149,10.8
 ,Tennessee,47,"Chester County, TN",47023,59,40923,144.2,109.8,186,18.8
 ,Tennessee,47,"Claiborne County, TN",47025,192,83085,231.1,198.4,263.8,16.7
-,Tennessee,47,"Clay County, TN",47027,40,19234,208.0,148.6,283.2,32.9
-,Tennessee,47,"Cocke County, TN",47029,252,92650,272.0,238.4,305.6,17.1
+,Tennessee,47,"Clay County, TN",47027,40,19234,208,148.6,283.2,32.9
+,Tennessee,47,"Cocke County, TN",47029,252,92650,272,238.4,305.6,17.1
 ,Tennessee,47,"Coffee County, TN",47031,265,136956,193.5,170.2,216.8,11.9
 ,Tennessee,47,"Crockett County, TN",47033,63,36696,171.7,131.9,219.7,21.6
 ,Tennessee,47,"Cumberland County, TN",47035,238,133790,177.9,155.3,200.5,11.5
@@ -2253,7 +2253,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Tennessee,47,"DeKalb County, TN",47041,110,50268,218.8,177.9,259.7,20.9
 ,Tennessee,47,"Dickson County, TN",47043,202,135853,148.7,128.2,169.2,10.5
 ,Tennessee,47,"Dyer County, TN",47045,157,96677,162.4,137,187.8,13
-,Tennessee,47,"Fayette County, TN",47047,149,104211,143.0,120,165.9,11.7
+,Tennessee,47,"Fayette County, TN",47047,149,104211,143,120,165.9,11.7
 ,Tennessee,47,"Fentress County, TN",47049,77,45474,169.3,133.6,211.6,19.3
 ,Tennessee,47,"Franklin County, TN",47051,158,101472,155.7,131.4,180,12.4
 ,Tennessee,47,"Gibson County, TN",47053,279,124098,224.8,198.4,251.2,13.5
@@ -2265,7 +2265,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Tennessee,47,"Hamilton County, TN",47065,1184,935924,126.5,119.3,133.7,3.7
 ,Tennessee,47,"Hancock County, TN",47067,32,17576,182.1,124.5,257,32.2
 ,Tennessee,47,"Hardeman County, TN",47069,119,71077,167.4,137.3,197.5,15.3
-,Tennessee,47,"Hardin County, TN",47071,155,65413,237.0,199.7,274.3,19
+,Tennessee,47,"Hardin County, TN",47071,155,65413,237,199.7,274.3,19
 ,Tennessee,47,"Hawkins County, TN",47073,229,148084,154.6,134.6,174.7,10.2
 ,Tennessee,47,"Haywood County, TN",47075,94,46813,200.8,162.3,245.7,20.7
 ,Tennessee,47,"Henderson County, TN",47077,121,72647,166.6,136.9,196.2,15.1
@@ -2300,12 +2300,12 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Tennessee,47,"Perry County, TN",47135,50,19564,255.6,189.7,336.9,36.1
 ,Tennessee,47,"Pickett County, TN",47137,20,12643,158.2,96.6,244.3,35.4
 ,Tennessee,47,"Polk County, TN",47139,67,43819,152.9,118.5,194.2,18.7
-,Tennessee,47,"Putnam County, TN",47141,286,177688,161.0,142.3,179.6,9.5
+,Tennessee,47,"Putnam County, TN",47141,286,177688,161,142.3,179.6,9.5
 ,Tennessee,47,"Rhea County, TN",47143,128,81440,157.2,129.9,184.4,13.9
 ,Tennessee,47,"Roane County, TN",47145,224,137589,162.8,141.5,184.1,10.9
 ,Tennessee,47,"Robertson County, TN",47147,258,182331,141.5,124.2,158.8,8.8
 ,Tennessee,47,"Rutherford County, TN",47149,679,761551,89.2,82.5,95.9,3.4
-,Tennessee,47,"Scott County, TN",47151,91,56887,160.0,128.8,196.4,16.8
+,Tennessee,47,"Scott County, TN",47151,91,56887,160,128.8,196.4,16.8
 ,Tennessee,47,"Sequatchie County, TN",47153,58,37750,153.6,116.7,198.6,20.2
 ,Tennessee,47,"Sevier County, TN",47155,372,250108,148.7,133.6,163.9,7.7
 ,Tennessee,47,"Shelby County, TN",47157,3605,2471866,145.8,141.1,150.6,2.4
@@ -2314,7 +2314,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Tennessee,47,"Sullivan County, TN",47163,696,407402,170.8,158.1,183.5,6.5
 ,Tennessee,47,"Sumner County, TN",47165,505,458736,110.1,100.5,119.7,4.9
 ,Tennessee,47,"Tipton County, TN",47167,247,161250,153.2,134.1,172.3,9.7
-,Tennessee,47,"Trousdale County, TN",47169,38,21224,179.0,126.7,245.8,29
+,Tennessee,47,"Trousdale County, TN",47169,38,21224,179,126.7,245.8,29
 ,Tennessee,47,"Unicoi County, TN",47171,69,46777,147.5,114.8,186.7,17.8
 ,Tennessee,47,"Union County, TN",47173,88,50734,173.5,139.1,213.7,18.5
 ,Tennessee,47,"Van Buren County, TN",47175,41,14892,275.3,197.6,373.5,43
@@ -2351,7 +2351,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Texas,48,"Burnet County, TX",48053,106,110154,96.2,77.9,114.5,9.3
 ,Texas,48,"Caldwell County, TX",48055,114,100511,113.4,92.6,134.2,10.6
 ,Texas,48,"Calhoun County, TX",48057,58,54048,107.3,81.5,138.7,14.1
-,Texas,48,"Callahan County, TX",48059,65,34389,189.0,145.9,240.9,23.4
+,Texas,48,"Callahan County, TX",48059,65,34389,189,145.9,240.9,23.4
 ,Texas,48,"Cameron County, TX",48061,882,950519,92.8,86.7,98.9,3.1
 ,Texas,48,"Camp County, TX",48063,52,30102,172.7,129,226.5,24
 ,Texas,48,"Carson County, TX",48065,18,15297,Unreliable,69.7,186,27.7
@@ -2379,7 +2379,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Texas,48,"DeWitt County, TX",48123,60,52955,113.3,86.5,145.8,14.6
 ,Texas,48,"Dimmit County, TX",48127,21,24825,84.6,52.4,129.3,18.5
 ,Texas,48,"Duval County, TX",48131,50,26780,186.7,138.6,246.2,26.4
-,Texas,48,"Eastland County, TX",48133,81,42622,190.0,150.9,236.2,21.1
+,Texas,48,"Eastland County, TX",48133,81,42622,190,150.9,236.2,21.1
 ,Texas,48,"Ector County, TX",48135,471,379283,124.2,113,135.4,5.7
 ,Texas,48,"Ellis County, TX",48139,408,414023,98.5,89,108.1,4.9
 ,Texas,48,"El Paso County, TX",48141,1381,2024608,68.2,64.6,71.8,1.8
@@ -2397,8 +2397,8 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Texas,48,"Gaines County, TX",48165,39,44531,87.6,62.3,119.7,14
 ,Texas,48,"Galveston County, TX",48167,867,844798,102.6,95.8,109.5,3.5
 ,Texas,48,"Garza County, TX",48169,15,17985,Unreliable,46.7,137.6,21.5
-,Texas,48,"Gillespie County, TX",48171,46,58263,79.0,57.8,105.3,11.6
-,Texas,48,"Goliad County, TX",48175,21,18752,112.0,69.3,171.2,24.4
+,Texas,48,"Gillespie County, TX",48171,46,58263,79,57.8,105.3,11.6
+,Texas,48,"Goliad County, TX",48175,21,18752,112,69.3,171.2,24.4
 ,Texas,48,"Gonzales County, TX",48177,55,49492,111.1,83.7,144.7,15
 ,Texas,48,"Gray County, TX",48179,75,58919,127.3,100.1,159.6,14.7
 ,Texas,48,"Grayson County, TX",48181,410,312760,131.1,118.4,143.8,6.5
@@ -2420,7 +2420,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Texas,48,"Hockley County, TX",48219,43,55261,77.8,56.3,104.8,11.9
 ,Texas,48,"Hood County, TX",48221,156,131614,118.5,99.9,137.1,9.5
 ,Texas,48,"Hopkins County, TX",48223,161,88524,181.9,153.8,210,14.3
-,Texas,48,"Houston County, TX",48225,103,59886,172.0,138.8,205.2,16.9
+,Texas,48,"Houston County, TX",48225,103,59886,172,138.8,205.2,16.9
 ,Texas,48,"Howard County, TX",48227,127,99700,127.4,105.2,149.5,11.3
 ,Texas,48,"Hunt County, TX",48231,389,225614,172.4,155.3,189.6,8.7
 ,Texas,48,"Hutchinson County, TX",48233,111,54865,202.3,164.7,240,19.2
@@ -2451,7 +2451,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Texas,48,"Limestone County, TX",48293,115,59169,194.4,158.8,229.9,18.1
 ,Texas,48,"Lipscomb County, TX",48295,10,8765,Unreliable,54.7,209.8,36.1
 ,Texas,48,"Live Oak County, TX",48297,43,31229,137.7,99.6,185.5,21
-,Texas,48,"Llano County, TX",48299,70,44577,157.0,122.4,198.4,18.8
+,Texas,48,"Llano County, TX",48299,70,44577,157,122.4,198.4,18.8
 ,Texas,48,"Lubbock County, TX",48303,761,690438,110.2,102.4,118.1,4
 ,Texas,48,"Lynn County, TX",48305,18,14063,Unreliable,75.9,202.3,30.2
 ,Texas,48,"McCulloch County, TX",48307,27,19610,137.7,90.7,200.3,26.5
@@ -2461,7 +2461,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Texas,48,"Martin County, TX",48317,20,13111,152.5,93.2,235.6,34.1
 ,Texas,48,"Matagorda County, TX",48321,132,91431,144.4,119.7,169,12.6
 ,Texas,48,"Maverick County, TX",48323,119,127642,93.2,76.5,110,8.5
-,Texas,48,"Medina County, TX",48325,138,121098,114.0,94.9,133,9.7
+,Texas,48,"Medina County, TX",48325,138,121098,114,94.9,133,9.7
 ,Texas,48,"Midland County, TX",48329,334,405083,82.5,73.6,91.3,4.5
 ,Texas,48,"Milam County, TX",48331,90,57880,155.5,125,191.1,16.4
 ,Texas,48,"Mills County, TX",48333,17,11003,Unreliable,90,247.4,37.5
@@ -2474,7 +2474,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Texas,48,"Navarro County, TX",48349,197,117160,168.1,144.7,191.6,12
 ,Texas,48,"Newton County, TX",48351,82,36223,226.4,180,281,25
 ,Texas,48,"Nolan County, TX",48353,56,36155,154.9,117,201.1,20.7
-,Texas,48,"Nueces County, TX",48355,914,914106,100.0,93.5,106.5,3.3
+,Texas,48,"Nueces County, TX",48355,914,914106,100,93.5,106.5,3.3
 ,Texas,48,"Ochiltree County, TX",48357,32,25927,123.4,84.4,174.2,21.8
 ,Texas,48,"Orange County, TX",48361,391,215463,181.5,163.5,199.5,9.2
 ,Texas,48,"Palo Pinto County, TX",48363,135,68814,196.2,163.1,229.3,16.9
@@ -2504,8 +2504,8 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Texas,48,"Scurry County, TX",48415,30,43976,68.2,46,97.4,12.5
 ,Texas,48,"Shelby County, TX",48419,132,62450,211.4,175.3,247.4,18.4
 ,Texas,48,"Smith County, TX",48423,593,541862,109.4,100.6,118.2,4.5
-,Texas,48,"Somervell County, TX",48425,22,21778,101.0,63.3,152.9,21.5
-,Texas,48,"Starr County, TX",48427,144,138498,104.0,87,121,8.7
+,Texas,48,"Somervell County, TX",48425,22,21778,101,63.3,152.9,21.5
+,Texas,48,"Starr County, TX",48427,144,138498,104,87,121,8.7
 ,Texas,48,"Stephens County, TX",48429,36,23410,153.8,107.7,212.9,25.6
 ,Texas,48,"Swisher County, TX",48437,14,18079,Unreliable,42.3,129.9,20.7
 ,Texas,48,"Tarrant County, TX",48439,4285,5180737,82.7,80.2,85.2,1.3
@@ -2524,7 +2524,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Texas,48,"Walker County, TX",48471,149,185289,80.4,67.5,93.3,6.6
 ,Texas,48,"Waller County, TX",48473,105,103262,101.7,82.2,121.1,9.9
 ,Texas,48,"Ward County, TX",48475,40,27665,144.6,103.3,196.9,22.9
-,Texas,48,"Washington County, TX",48477,82,81961,100.0,79.6,124.2,11
+,Texas,48,"Washington County, TX",48477,82,81961,100,79.6,124.2,11
 ,Texas,48,"Webb County, TX",48479,445,609128,73.1,66.3,79.8,3.5
 ,Texas,48,"Wharton County, TX",48481,110,101419,108.5,88.2,128.7,10.3
 ,Texas,48,"Wheeler County, TX",48483,12,13704,Unreliable,45.2,153,25.3
@@ -2538,17 +2538,17 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Texas,48,"Wood County, TX",48499,192,98857,194.2,166.7,221.7,14
 ,Texas,48,"Yoakum County, TX",48501,18,19338,Unreliable,55.2,147.1,21.9
 ,Texas,48,"Young County, TX",48503,72,44702,161.1,126,202.8,19
-,Texas,48,"Zapata County, TX",48505,30,31576,95.0,64.1,135.6,17.3
+,Texas,48,"Zapata County, TX",48505,30,31576,95,64.1,135.6,17.3
 ,Texas,48,"Zavala County, TX",48507,30,26980,111.2,75,158.7,20.3
 ,Utah,49,"Beaver County, UT",49001,10,14698,Unreliable,32.6,125.1,21.5
-,Utah,49,"Box Elder County, UT",49003,79,119685,66.0,52.3,82.3,7.4
+,Utah,49,"Box Elder County, UT",49003,79,119685,66,52.3,82.3,7.4
 ,Utah,49,"Cache County, UT",49005,92,246854,37.3,30,45.7,3.9
 ,Utah,49,"Carbon County, UT",49007,62,50258,123.4,94.6,158.1,15.7
 ,Utah,49,"Davis County, UT",49011,327,792656,41.3,36.8,45.7,2.3
 ,Utah,49,"Duchesne County, UT",49013,26,46599,55.8,36.4,81.8,10.9
 ,Utah,49,"Emery County, UT",49015,28,24855,112.7,74.9,162.8,21.3
 ,Utah,49,"Grand County, UT",49019,13,25862,Unreliable,26.8,86,13.9
-,Utah,49,"Iron County, UT",49021,75,104133,72.0,56.7,90.3,8.3
+,Utah,49,"Iron County, UT",49021,75,104133,72,56.7,90.3,8.3
 ,Utah,49,"Juab County, UT",49023,17,23384,Unreliable,42.4,116.4,17.6
 ,Utah,49,"Kane County, UT",49025,12,17440,Unreliable,35.6,120.2,19.9
 ,Utah,49,"Millard County, UT",49027,20,28118,71.1,43.4,109.9,15.9
@@ -2579,7 +2579,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Vermont,50,"Windsor County, VT",50027,108,150637,71.7,58.2,85.2,6.9
 ,Virginia,51,"Accomack County, VA",51001,141,83767,168.3,140.5,196.1,14.2
 ,Virginia,51,"Albemarle County, VA",51003,134,264864,50.6,42,59.2,4.4
-,Virginia,51,"Alleghany County, VA",51005,59,39062,151.0,115,194.8,19.7
+,Virginia,51,"Alleghany County, VA",51005,59,39062,151,115,194.8,19.7
 ,Virginia,51,"Amelia County, VA",51007,52,34265,151.8,113.3,199,21
 ,Virginia,51,"Amherst County, VA",51009,109,82687,131.8,107.1,156.6,12.6
 ,Virginia,51,"Appomattox County, VA",51011,56,39525,141.7,107,184,18.9
@@ -2592,21 +2592,21 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Virginia,51,"Brunswick County, VA",51025,64,45149,141.8,109.2,181,17.7
 ,Virginia,51,"Buchanan County, VA",51027,116,63992,181.3,148.3,214.3,16.8
 ,Virginia,51,"Buckingham County, VA",51029,56,48018,116.6,88.1,151.4,15.6
-,Virginia,51,"Campbell County, VA",51031,163,145517,112.0,94.8,129.2,8.8
+,Virginia,51,"Campbell County, VA",51031,163,145517,112,94.8,129.2,8.8
 ,Virginia,51,"Caroline County, VA",51033,92,80046,114.9,92.7,141,12
 ,Virginia,51,"Carroll County, VA",51035,96,77239,124.3,100.7,151.8,12.7
 ,Virginia,51,"Charles City County, VA",51036,31,19711,157.3,106.9,223.2,28.2
 ,Virginia,51,"Charlotte County, VA",51037,40,30556,130.9,93.5,178.3,20.7
 ,Virginia,51,"Chesterfield County, VA",51041,645,887777,72.7,67,78.3,2.9
 ,Virginia,51,"Clarke County, VA",51043,26,37888,68.6,44.8,100.5,13.5
-,Virginia,51,"Craig County, VA",51045,20,13610,147.0,89.8,227,32.9
+,Virginia,51,"Craig County, VA",51045,20,13610,147,89.8,227,32.9
 ,Virginia,51,"Culpeper County, VA",51047,112,129534,86.5,70.5,102.5,8.2
 ,Virginia,51,"Cumberland County, VA",51049,32,25100,127.5,87.2,180,22.5
 ,Virginia,51,"Dickenson County, VA",51051,67,40941,163.7,126.8,207.8,20
 ,Virginia,51,"Dinwiddie County, VA",51053,96,75791,126.7,102.6,154.7,12.9
 ,Virginia,51,"Essex County, VA",51057,45,28688,156.9,114.4,209.9,23.4
 ,Virginia,51,"Fairfax County, VA",51059,1016,3197659,31.8,29.8,33.7,1
-,Virginia,51,"Fauquier County, VA",51061,123,180933,68.0,56,80,6.1
+,Virginia,51,"Fauquier County, VA",51061,123,180933,68,56,80,6.1
 ,Virginia,51,"Floyd County, VA",51063,44,40840,107.7,78.3,144.6,16.2
 ,Virginia,51,"Fluvanna County, VA",51065,64,69745,91.8,70.7,117.2,11.5
 ,Virginia,51,"Franklin County, VA",51067,182,143042,127.2,108.7,145.7,9.4
@@ -2621,9 +2621,9 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Virginia,51,"Hanover County, VA",51085,190,269074,70.6,60.6,80.7,5.1
 ,Virginia,51,"Henrico County, VA",51087,747,878288,85.1,79,91.2,3.1
 ,Virginia,51,"Henry County, VA",51089,201,133569,150.5,129.7,171.3,10.6
-,Virginia,51,"Isle of Wight County, VA",51093,100,97095,103.0,82.8,123.2,10.3
+,Virginia,51,"Isle of Wight County, VA",51093,100,97095,103,82.8,123.2,10.3
 ,Virginia,51,"James City County, VA",51095,126,176010,71.6,59.1,84.1,6.4
-,Virginia,51,"King and Queen County, VA",51097,22,18958,116.0,72.7,175.7,24.7
+,Virginia,51,"King and Queen County, VA",51097,22,18958,116,72.7,175.7,24.7
 ,Virginia,51,"King George County, VA",51099,43,67630,63.6,46,85.6,9.7
 ,Virginia,51,"King William County, VA",51101,42,44114,95.2,68.6,128.7,14.7
 ,Virginia,51,"Lancaster County, VA",51103,37,24375,151.8,106.9,209.2,25
@@ -2658,7 +2658,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Virginia,51,"Russell County, VA",51167,136,75579,179.9,149.7,210.2,15.4
 ,Virginia,51,"Scott County, VA",51169,91,58823,154.7,124.6,189.9,16.2
 ,Virginia,51,"Shenandoah County, VA",51171,96,109255,87.9,71.2,107.3,9
-,Virginia,51,"Smyth County, VA",51173,131,81877,160.0,132.6,187.4,14
+,Virginia,51,"Smyth County, VA",51173,131,81877,160,132.6,187.4,14
 ,Virginia,51,"Southampton County, VA",51175,54,50076,107.8,81,140.7,14.7
 ,Virginia,51,"Spotsylvania County, VA",51177,247,343465,71.9,62.9,80.9,4.6
 ,Virginia,51,"Stafford County, VA",51179,207,375479,55.1,47.6,62.6,3.8
@@ -2673,15 +2673,15 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Virginia,51,"York County, VA",51199,80,173714,46.1,36.5,57.3,5.1
 ,Virginia,51,"Alexandria city, VA",51510,218,498644,43.7,37.9,49.5,3
 ,Virginia,51,"Bristol city, VA",51520,95,44968,211.3,170.9,258.3,21.7
-,Virginia,51,"Buena Vista city, VA",51530,21,15441,136.0,84.2,207.9,29.7
+,Virginia,51,"Buena Vista city, VA",51530,21,15441,136,84.2,207.9,29.7
 ,Virginia,51,"Charlottesville city, VA",51540,100,118973,84.1,67.6,100.5,8.4
 ,Virginia,51,"Chesapeake city, VA",51550,527,634330,83.1,76,90.2,3.6
 ,Virginia,51,"Clifton Forge city, VA",51560,,,Missing,,,
 ,Virginia,51,"Colonial Heights city, VA",51570,64,42776,149.6,115.2,191.1,18.7
 ,Virginia,51,"Covington city, VA",51580,28,14744,189.9,126.2,274.5,35.9
-,Virginia,51,"Danville city, VA",51590,196,103705,189.0,162.5,215.5,13.5
+,Virginia,51,"Danville city, VA",51590,196,103705,189,162.5,215.5,13.5
 ,Virginia,51,"Emporia city, VA",51595,23,13662,168.4,106.7,252.6,35.1
-,Virginia,51,"Fairfax city, VA",51600,37,63837,58.0,40.8,79.9,9.5
+,Virginia,51,"Fairfax city, VA",51600,37,63837,58,40.8,79.9,9.5
 ,Virginia,51,"Falls Church city, VA",51610,14,37991,Unreliable,20.1,61.8,9.8
 ,Virginia,51,"Franklin city, VA",51620,29,20789,139.5,93.4,200.3,25.9
 ,Virginia,51,"Fredericksburg city, VA",51630,78,68218,114.3,90.4,142.7,12.9
@@ -2691,7 +2691,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Virginia,51,"Hopewell city, VA",51670,101,56239,179.6,144.6,214.6,17.9
 ,Virginia,51,"Lexington city, VA",51678,12,10613,Unreliable,58.4,197.5,32.6
 ,Virginia,51,"Lynchburg city, VA",51680,197,166441,118.4,101.8,134.9,8.4
-,Virginia,51,"Manassas city, VA",51683,78,114699,68.0,53.8,84.9,7.7
+,Virginia,51,"Manassas city, VA",51683,78,114699,68,53.8,84.9,7.7
 ,Virginia,51,"Manassas Park city, VA",51685,13,45489,Unreliable,15.2,48.9,7.9
 ,Virginia,51,"Martinsville city, VA",51690,86,33528,256.5,205.2,316.8,27.7
 ,Virginia,51,"Newport News city, VA",51700,502,473061,106.1,96.8,115.4,4.7
@@ -2705,7 +2705,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Virginia,51,"Roanoke city, VA",51770,429,270286,158.7,143.7,173.7,7.7
 ,Virginia,51,"Salem city, VA",51775,88,62959,139.8,112.1,172.2,14.9
 ,Virginia,51,"Staunton city, VA",51790,94,61719,152.3,123.1,186.4,15.7
-,Virginia,51,"Suffolk city, VA",51800,234,233977,100.0,87.2,112.8,6.5
+,Virginia,51,"Suffolk city, VA",51800,234,233977,100,87.2,112.8,6.5
 ,Virginia,51,"Virginia Beach city, VA",51810,809,1229053,65.8,61.3,70.4,2.3
 ,Virginia,51,"Waynesboro city, VA",51820,65,54687,118.9,91.7,151.5,14.7
 ,Virginia,51,"Williamsburg city, VA",51830,23,27684,83.1,52.7,124.7,17.3
@@ -2723,14 +2723,14 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Washington,53,"Grant County, WA",53025,189,218448,86.5,74.2,98.9,6.3
 ,Washington,53,"Grays Harbor County, WA",53027,207,186338,111.1,96,126.2,7.7
 ,Washington,53,"Island County, WA",53029,126,198755,63.4,52.3,74.5,5.6
-,Washington,53,"Jefferson County, WA",53031,45,75045,60.0,43.7,80.2,8.9
-,Washington,53,"King County, WA",53033,2845,6059254,47.0,45.2,48.7,0.9
+,Washington,53,"Jefferson County, WA",53031,45,75045,60,43.7,80.2,8.9
+,Washington,53,"King County, WA",53033,2845,6059254,47,45.2,48.7,0.9
 ,Washington,53,"Kitsap County, WA",53035,451,677653,66.6,60.4,72.7,3.1
 ,Washington,53,"Kittitas County, WA",53037,71,96507,73.6,57.5,92.8,8.7
 ,Washington,53,"Klickitat County, WA",53039,49,54241,90.3,66.8,119.4,12.9
 ,Washington,53,"Lewis County, WA",53041,202,190408,106.1,91.5,120.7,7.5
 ,Washington,53,"Lincoln County, WA",53043,23,25020,91.9,58.3,137.9,19.2
-,Washington,53,"Mason County, WA",53045,144,158288,91.0,76.1,105.8,7.6
+,Washington,53,"Mason County, WA",53045,144,158288,91,76.1,105.8,7.6
 ,Washington,53,"Okanogan County, WA",53047,91,102530,88.8,71.5,109,9.3
 ,Washington,53,"Pacific County, WA",53049,89,50787,175.2,140.7,215.7,18.6
 ,Washington,53,"Pend Oreille County, WA",53051,23,32798,70.1,44.5,105.2,14.6
@@ -2739,14 +2739,14 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Washington,53,"Skagit County, WA",53057,218,304294,71.6,62.1,81.2,4.9
 ,Washington,53,"Skamania County, WA",53059,33,31397,105.1,72.3,147.6,18.3
 ,Washington,53,"Snohomish County, WA",53061,1230,2134193,57.6,54.4,60.9,1.6
-,Washington,53,"Spokane County, WA",53063,916,1272671,72.0,67.3,76.6,2.4
+,Washington,53,"Spokane County, WA",53063,916,1272671,72,67.3,76.6,2.4
 ,Washington,53,"Stevens County, WA",53065,106,109504,96.8,78.4,115.2,9.4
-,Washington,53,"Thurston County, WA",53067,445,717172,62.0,56.3,67.8,2.9
+,Washington,53,"Thurston County, WA",53067,445,717172,62,56.3,67.8,2.9
 ,Washington,53,"Wahkiakum County, WA",53069,13,9429,Unreliable,73.4,235.8,38.2
 ,Washington,53,"Walla Walla County, WA",53071,88,144787,60.8,48.7,74.9,6.5
 ,Washington,53,"Whatcom County, WA",53073,296,520518,56.9,50.4,63.3,3.3
 ,Washington,53,"Whitman County, WA",53075,63,91124,69.1,53.1,88.5,8.7
-,Washington,53,"Yakima County, WA",53077,580,585798,99.0,91,107.1,4.1
+,Washington,53,"Yakima County, WA",53077,580,585798,99,91,107.1,4.1
 ,West Virginia,54,"Barbour County, WV",54001,56,41829,133.9,101.1,173.9,17.9
 ,West Virginia,54,"Berkeley County, WV",54003,278,302954,91.8,81,102.6,5.5
 ,West Virginia,54,"Boone County, WV",54005,95,63632,149.3,120.8,182.5,15.3
@@ -2757,7 +2757,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,West Virginia,54,"Clay County, WV",54015,26,23143,112.3,73.4,164.6,22
 ,West Virginia,54,"Doddridge County, WV",54017,21,22879,91.8,56.8,140.3,20
 ,West Virginia,54,"Fayette County, WV",54019,194,119645,162.1,139.3,185,11.6
-,West Virginia,54,"Gilmer County, WV",54021,24,24002,100.0,64.1,148.8,20.4
+,West Virginia,54,"Gilmer County, WV",54021,24,24002,100,64.1,148.8,20.4
 ,West Virginia,54,"Grant County, WV",54023,39,29974,130.1,92.5,177.9,20.8
 ,West Virginia,54,"Greenbrier County, WV",54025,106,92090,115.1,93.2,137,11.2
 ,West Virginia,54,"Hampshire County, WV",54027,70,62035,112.8,88,142.6,13.5
@@ -2765,11 +2765,11 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,West Virginia,54,"Hardy County, WV",54031,42,36649,114.6,82.6,154.9,17.7
 ,West Virginia,54,"Harrison County, WV",54033,215,182537,117.8,102,133.5,8
 ,West Virginia,54,"Jackson County, WV",54035,89,75542,117.8,94.6,145,12.5
-,West Virginia,54,"Jefferson County, WV",54037,126,149964,84.0,69.3,98.7,7.5
+,West Virginia,54,"Jefferson County, WV",54037,126,149964,84,69.3,98.7,7.5
 ,West Virginia,54,"Kanawha County, WV",54039,687,507563,135.4,125.2,145.5,5.2
 ,West Virginia,54,"Lewis County, WV",54041,61,43293,140.9,107.8,181,18
 ,West Virginia,54,"Lincoln County, WV",54043,72,57006,126.3,98.8,159.1,14.9
-,West Virginia,54,"Logan County, WV",54045,201,96155,209.0,180.1,237.9,14.7
+,West Virginia,54,"Logan County, WV",54045,201,96155,209,180.1,237.9,14.7
 ,West Virginia,54,"McDowell County, WV",54047,124,54921,225.8,186,265.5,20.3
 ,West Virginia,54,"Marion County, WV",54049,170,143754,118.3,100.5,136,9.1
 ,West Virginia,54,"Marshall County, WV",54051,102,85254,119.6,96.4,142.9,11.8
@@ -2777,13 +2777,13 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,West Virginia,54,"Mercer County, WV",54055,246,156955,156.7,137.1,176.3,10
 ,West Virginia,54,"Mineral County, WV",54057,80,70054,114.2,90.6,142.1,12.8
 ,West Virginia,54,"Mingo County, WV",54059,161,70272,229.1,193.7,264.5,18.1
-,West Virginia,54,"Monongalia County, WV",54061,177,256534,69.0,58.8,79.2,5.2
+,West Virginia,54,"Monongalia County, WV",54061,177,256534,69,58.8,79.2,5.2
 ,West Virginia,54,"Monroe County, WV",54063,29,33988,85.3,57.1,122.5,15.8
 ,West Virginia,54,"Morgan County, WV",54065,38,46421,81.9,57.9,112.4,13.3
 ,West Virginia,54,"Nicholas County, WV",54067,104,67789,153.4,123.9,182.9,15
 ,West Virginia,54,"Ohio County, WV",54069,116,109528,105.9,86.6,125.2,9.8
 ,West Virginia,54,"Pendleton County, WV",54071,14,18219,Unreliable,42,128.9,20.5
-,West Virginia,54,"Pleasants County, WV",54073,23,20542,112.0,71,168,23.3
+,West Virginia,54,"Pleasants County, WV",54073,23,20542,112,71,168,23.3
 ,West Virginia,54,"Pocahontas County, WV",54075,23,23113,99.5,63.1,149.3,20.7
 ,West Virginia,54,"Preston County, WV",54077,94,94622,99.3,80.3,121.6,10.2
 ,West Virginia,54,"Putnam County, WV",54079,133,152289,87.3,72.5,102.2,7.6
@@ -2797,7 +2797,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,West Virginia,54,"Tyler County, WV",54095,29,23691,122.4,82,175.8,22.7
 ,West Virginia,54,"Upshur County, WV",54097,72,61487,117.1,91.6,147.5,13.8
 ,West Virginia,54,"Wayne County, WV",54099,127,107750,117.9,97.4,138.4,10.5
-,West Virginia,54,"Webster County, WV",54101,34,22813,149.0,103.2,208.3,25.6
+,West Virginia,54,"Webster County, WV",54101,34,22813,149,103.2,208.3,25.6
 ,West Virginia,54,"Wetzel County, WV",54103,66,40586,162.6,125.8,206.9,20
 ,West Virginia,54,"Wirt County, WV",54105,18,15766,Unreliable,67.7,180.4,26.9
 ,West Virginia,54,"Wood County, WV",54107,304,226639,134.1,119.1,149.2,7.7
@@ -2805,9 +2805,9 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Wisconsin,55,"Adams County, WI",55001,71,53022,133.9,104.6,168.9,15.9
 ,Wisconsin,55,"Ashland County, WI",55003,32,40149,79.7,54.5,112.5,14.1
 ,Wisconsin,55,"Barron County, WI",55005,91,115950,78.5,63.2,96.4,8.2
-,Wisconsin,55,"Bayfield County, WI",55007,25,39063,64.0,41.4,94.5,12.8
+,Wisconsin,55,"Bayfield County, WI",55007,25,39063,64,41.4,94.5,12.8
 ,Wisconsin,55,"Brown County, WI",55009,535,682106,78.4,71.8,85.1,3.4
-,Wisconsin,55,"Buffalo County, WI",55011,25,34267,73.0,47.2,107.7,14.6
+,Wisconsin,55,"Buffalo County, WI",55011,25,34267,73,47.2,107.7,14.6
 ,Wisconsin,55,"Burnett County, WI",55013,34,37836,89.9,62.2,125.6,15.4
 ,Wisconsin,55,"Calumet County, WI",55015,73,133549,54.7,42.8,68.7,6.4
 ,Wisconsin,55,"Chippewa County, WI",55017,124,170315,72.8,60,85.6,6.5
@@ -2816,7 +2816,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Wisconsin,55,"Crawford County, WI",55023,36,41820,86.1,60.3,119.2,14.3
 ,Wisconsin,55,"Dane County, WI",55025,714,1379303,51.8,48,55.6,1.9
 ,Wisconsin,55,"Dodge County, WI",55027,185,243038,76.1,65.2,87.1,5.6
-,Wisconsin,55,"Door County, WI",55029,63,70037,90.0,69.1,115.1,11.3
+,Wisconsin,55,"Door County, WI",55029,63,70037,90,69.1,115.1,11.3
 ,Wisconsin,55,"Douglas County, WI",55031,87,117741,73.9,59.2,91.1,7.9
 ,Wisconsin,55,"Dunn County, WI",55033,76,103170,73.7,58,92.2,8.4
 ,Wisconsin,55,"Eau Claire County, WI",55035,142,246238,57.7,48.2,67.2,4.8
@@ -2834,7 +2834,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Wisconsin,55,"Kewaunee County, WI",55061,27,53178,50.8,33.5,73.9,9.8
 ,Wisconsin,55,"La Crosse County, WI",55063,183,286568,63.9,54.6,73.1,4.7
 ,Wisconsin,55,"Lafayette County, WI",55065,22,42438,51.8,32.5,78.5,11.1
-,Wisconsin,55,"Langlade County, WI",55067,41,49378,83.0,59.6,112.6,13
+,Wisconsin,55,"Langlade County, WI",55067,41,49378,83,59.6,112.6,13
 ,Wisconsin,55,"Lincoln County, WI",55069,52,75100,69.2,51.7,90.8,9.6
 ,Wisconsin,55,"Manitowoc County, WI",55071,164,210960,77.7,65.8,89.6,6.1
 ,Wisconsin,55,"Marathon County, WI",55073,190,356257,53.3,45.7,60.9,3.9
@@ -2843,10 +2843,10 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Wisconsin,55,"Menominee County, WI",55078,15,9912,Unreliable,84.7,249.6,39.1
 ,Wisconsin,55,"Milwaukee County, WI",55079,2793,2532403,110.3,106.2,114.4,2.1
 ,Wisconsin,55,"Monroe County, WI",55081,112,117182,95.6,77.9,113.3,9
-,Wisconsin,55,"Oconto County, WI",55083,92,101057,91.0,73.4,111.6,9.5
-,Wisconsin,55,"Oneida County, WI",55085,91,92895,98.0,78.9,120.3,10.3
+,Wisconsin,55,"Oconto County, WI",55083,92,101057,91,73.4,111.6,9.5
+,Wisconsin,55,"Oneida County, WI",55085,91,92895,98,78.9,120.3,10.3
 ,Wisconsin,55,"Outagamie County, WI",55087,291,489673,59.4,52.6,66.3,3.5
-,Wisconsin,55,"Ozaukee County, WI",55089,134,226990,59.0,49,69,5.1
+,Wisconsin,55,"Ozaukee County, WI",55089,134,226990,59,49,69,5.1
 ,Wisconsin,55,"Pepin County, WI",55091,22,18505,118.9,74.5,180,25.3
 ,Wisconsin,55,"Pierce County, WI",55093,64,101693,62.9,48.5,80.4,7.9
 ,Wisconsin,55,"Polk County, WI",55095,89,114277,77.9,62.5,95.8,8.3
@@ -2868,7 +2868,7 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Wisconsin,55,"Walworth County, WI",55127,189,257591,73.4,62.9,83.8,5.3
 ,Wisconsin,55,"Washburn County, WI",55129,57,39679,143.7,108.8,186.1,19
 ,Wisconsin,55,"Washington County, WI",55131,226,360862,62.6,54.5,70.8,4.2
-,Wisconsin,55,"Waukesha County, WI",55133,518,1056448,49.0,44.8,53.3,2.2
+,Wisconsin,55,"Waukesha County, WI",55133,518,1056448,49,44.8,53.3,2.2
 ,Wisconsin,55,"Waupaca County, WI",55135,118,135339,87.2,71.5,102.9,8
 ,Wisconsin,55,"Waushara County, WI",55137,92,63400,145.1,117,178,15.1
 ,Wisconsin,55,"Winnebago County, WI",55139,263,442833,59.4,52.2,66.6,3.7
@@ -2892,100 +2892,6 @@ Notes,State,State Code,County,County Code,Deaths,Population,Crude Rate,Crude Rat
 ,Wyoming,56,"Sublette County, WY",56035,19,28293,Unreliable,40.4,104.9,15.4
 ,Wyoming,56,"Sweetwater County, WY",56037,84,121976,68.9,54.9,85.3,7.5
 ,Wyoming,56,"Teton County, WY",56039,25,70613,35.4,22.9,52.3,7.1
-,Wyoming,56,"Uinta County, WY",56041,48,53908,89.0,65.7,118.1,12.9
+,Wyoming,56,"Uinta County, WY",56041,48,53908,89,65.7,118.1,12.9
 ,Wyoming,56,"Washakie County, WY",56043,18,20627,Unreliable,51.7,137.9,20.6
 ,Wyoming,56,"Weston County, WY",56045,23,19040,120.8,76.6,181.3,25.2
----,,,,,,,,,,
-"Dataset: Underlying Cause of Death, 1999-2016",,,,,,,,,,
-Query Parameters:,,,,,,,,,,
-Title:,,,,,,,,,,
-2013 Urbanization: All,,,,,,,,,,
-Autopsy: All,,,,,,,,,,
-Gender: All,,,,,,,,,,
-Hispanic Origin: All,,,,,,,,,,
-ICD-10 113 Cause List: Major cardiovascular diseases (I00-I78),,,,,,,,,,
-Place of Death: All,,,,,,,,,,
-Race: All,,,,,,,,,,
-States: All,,,,,,,,,,
-"Ten-Year Age Groups: 25-34 years, 35-44 years, 45-54 years, 55-64 years",,,,,,,,,,
-Weekday: All,,,,,,,,,,
-"Year/Month: 2012, 2013, 2014, 2015, 2016",,,,,,,,,,
-"Group By: State, County",,,,,,,,,,
-Show Totals: Disabled,,,,,,,,,,
-Show Zero Values: True,,,,,,,,,,
-Show Suppressed: False,,,,,,,,,,
-"Calculate Rates Per: 100,000",,,,,,,,,,
-Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,,,,
----,,,,,,,,,,
-Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.,,,,,,,,,,
----,,,,,,,,,,
-"Query Date: Aug 7, 2018 10:07:45 PM",,,,,,,,,,
----,,,,,,,,,,
-"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death",,,,,,,,,,
-"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as",,,,,,,,,,
-compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed,,,,,,,,,,
-"at http://wonder.cdc.gov/ucd-icd10.html on Aug 7, 2018 10:07:45 PM",,,,,,,,,,
----,,,,,,,,,,
-Messages:,,,,,,,,,,
-1. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,,,,
-http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,,,,
-2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.,,,,,,,,,,
----,,,,,,,,,,
-Footnotes:,,,,,,,,,,
-1. Data are not available for this area for all of the requested years. See Caveats below for more information.,,,,,,,,,,
-2. Data discontinuity due to county line boundary changes in requested years. See Caveats below for more information.,,,,,,,,,,
----,,,,,,,,,,
-Caveats:,,,,,,,,,,
-"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",,,,,,,,,,
-http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision.,,,,,,,,,,
-"2. Data for Prince of Wales-Hyder Census Area, AK (FIPS code 02198), Hoonah-Angoon Census Area, AK (FIPS code 02105), Skagway",,,,,,,,,,
-"Municipality, AK (FIPS code 02230), Petersburg Borough/Census Area, AK (FIPS code 02195) and Wrangell City and Borough, AK (FIPS",,,,,,,,,,
-"code 02275) are only available for 2014 and later; for computational purposes, counts and population estimates for 2013 and",,,,,,,,,,
-"earlier are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not include any data for years",,,,,,,,,,
-"before 2014, only data for 2014 and later. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Alaska2014.",,,,,,,,,,
-"3. Data for Prince of Wales-Outer Ketchikan Census Area, AK (FIPS code 02201), Skagway-Hoonah-Angoon Census Area, AK (FIPS code",,,,,,,,,,
-"02232) and Wrangell-Petersburg Census Area, AK (FIPS code 02280) are only available for 2013 and earlier; for computational",,,,,,,,,,
-"purposes, counts and population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year",,,,,,,,,,
-"requests for this entity do not include any data for years after 2013, only data for 2013 and earlier. More information:",,,,,,,,,,
-http://wonder.cdc.gov/wonder/help/ucd.html#Alaska2014.,,,,,,,,,,
-"4. Data for Bedford city, Va. (FIPS code 51515) are only available for 2013 and earlier; for computational purposes, counts and",,,,,,,,,,
-"population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year requests for this entity do",,,,,,,,,,
-"not include any data for years after 2014, only data for 2013 and earlier. More information:",,,,,,,,,,
-http://wonder.cdc.gov/wonder/help/ucd.html#Bedford.,,,,,,,,,,
-5. There is a discontinuity in the mortality and population data for Bedford County (FIPS code 51019) between years 2013 and,,,,,,,,,,
-"2014. The discontinuity occurs because Bedford City, Virginia (FIPS code 51515), formerly an independent city, merged with",,,,,,,,,,
-"Bedford County (FIPS code 51019) on July 1, 2013. Beginning in 2014, deaths and population counts for Bedford City, Virginia",,,,,,,,,,
-(FIPS code 51515) are included in Bedford County (FIPS code 51019).,,,,,,,,,,
-"6. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death",,,,,,,,,,
-"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code",,,,,,,,,,
-"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;",,,,,,,,,,
-for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Clifton Forge.,,,,,,,,,,
-"7. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510).",,,,,,,,,,
-8. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code,,,,,,,,,,
-24005).,,,,,,,,,,
-9. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189).,,,,,,,,,,
-10. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,,,,
-http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality.,,,,,,,,,,
-11. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,,,,
-http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable.,,,,,,,,,,
-"12. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age",,,,,,,,,,
-"groups, so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",,,,,,,,,,
-http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated.,,,,,,,,,,
-13. The method used to calculate 95% confidence intervals is documented here: More information:,,,,,,,,,,
-http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals.,,,,,,,,,,
-14. The method used to calculate standard errors is documented here: More information:,,,,,,,,,,
-http://wonder.cdc.gov/wonder/help/ucd.html#Standard-Errors.,,,,,,,,,,
-"15. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016",,,,,,,,,,
-"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July",,,,,,,,,,
-"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for",,,,,,,,,,
-"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS",,,,,,,,,,
-"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the",,,,,,,,,,
-"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race",,,,,,,,,,
-"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The",,,,,,,,,,
-"population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal",,,,,,,,,,
-"series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population figures for",,,,,,,,,,
-"years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal county-level 2000 -",,,,,,,,,,
-"2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for",,,,,,,,,,
-1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age groups are the number,,,,,,,,,,
-of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published,,,,,,,,,,
-"reports, due to use of the population estimates which were available at the time of release.",,,,,,,,,,
