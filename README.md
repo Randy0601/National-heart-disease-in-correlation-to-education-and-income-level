@@ -28,3 +28,6 @@
 ### The data provides an estimate based on education/income level, but one cannot assume that heart diseases can be prevented by education or income alone. While education or income may help prevent heart diseases and mortality from the diseases, many outside factors will and can contribute to overall heart disease rate. 
 
 
+# IPYNB files
+## Use both versions of ADK_Starter in the front page as well as Project 1 - CJK New in the Raw file. Images are in the Image folder in the Raw folder.
+
