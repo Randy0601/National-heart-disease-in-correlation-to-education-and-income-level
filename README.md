@@ -22,7 +22,9 @@
 	* At county level, how mortality rate from heart disease ties to income and education level
 				
 # Techniques & tools: 
-## Python API, Pandas, Matplotlib, etc.
+## Python API, Pandas, Matplotlib, Plotly, Geopandas, Joypy etc.
 
 # Data Short comings: 
 ### The data provides an estimate based on education/income level, but one cannot assume that heart diseases can be prevented by education or income alone. While education or income may help prevent heart diseases and mortality from the diseases, many outside factors will and can contribute to overall heart disease rate. 
+
+
